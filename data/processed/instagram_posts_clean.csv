@@ -1,0 +1,621 @@
+post_id,post_date,post_type,caption,hashtags,hashtag_count,reach,impressions,likes,comments,shares,saves,follows_gained,total_engagement,engagement_rate,day_of_week,hour,month,year,time_bucket
+IG0001,2025-10-16 03:01:00,Reel,Why fitness matters more than you think.,#explorepage #instagood #lifestyle #fitness,4,3160,3722,167,8,64,111,6,350,0.1108,Thursday,3,October,2025,Night
+IG0002,2025-09-08 00:35:00,Video,No caption,#delhi #startup #explorepage,3,3093,3683,117,2,38,49,5,206,0.0666,Monday,0,September,2025,Night
+IG0003,2025-12-15 13:21:00,Carousel,Why fitness matters more than you think.,#lifestyle #reels #nature #fitness,4,3596,4614,111,5,25,75,12,216,0.0601,Monday,13,December,2025,Afternoon
+IG0004,2024-02-14 23:29:00,Reel,Check out our latest fitness update! What do you think?,#fitness #business #foodie #ootd #art #india #instagood #marketing,8,3093,3502,205,11,81,55,3,352,0.1138,Wednesday,23,February,2024,Night
+IG0005,2024-08-26 03:24:00,Carousel,We just launched something new in business. Link in bio!,#technology #art #photography #mumbai,4,2594,3495,89,4,21,67,7,181,0.0698,Monday,3,August,2024,Night
+IG0006,2024-03-14 19:40:00,Carousel,No caption,#delhi #explorepage,2,2192,3473,101,5,49,52,12,207,0.0944,Thursday,19,March,2024,Evening
+IG0007,2025-07-24 07:43:00,Reel,Behind the scenes of tech — swipe to see more.,#travel #explorepage #instagood #nature #business,5,3344,4132,126,3,37,94,7,260,0.0778,Thursday,7,July,2025,Morning
+IG0008,2024-11-18 06:41:00,Image,Why tech matters more than you think.,#business #technology #lifestyle #motivation #delhi #fitness #art,7,2509,2766,101,4,37,59,3,201,0.0801,Monday,6,November,2024,Morning
+IG0009,2024-05-21 16:31:00,Reel,5 tips every beginner should know about fitness.,#travel,1,2541,2875,168,4,61,82,18,315,0.124,Tuesday,16,May,2024,Afternoon
+IG0010,2024-03-06 12:24:00,Carousel,Big announcement coming soon about tech!,#india #motivation #delhi #fashion #fitness #nature #mumbai,7,5552,8219,183,8,75,118,15,384,0.0692,Wednesday,12,March,2024,Afternoon
+IG0011,2024-09-26 16:48:00,Reel,We just launched something new in tech. Link in bio!,#india #fitness,2,2669,3614,200,4,40,99,9,343,0.1285,Thursday,16,September,2024,Afternoon
+IG0012,2025-06-27 00:38:00,Reel,Check out our latest travel update! What do you think?,#marketing #fashion #fitness #art #ootd,5,3734,5843,195,8,105,147,12,455,0.1219,Friday,0,June,2025,Night
+IG0013,2025-05-12 02:48:00,Image,We just launched something new in art. Link in bio!,#lifestyle #instagood #marketing #photography #motivation #delhi #startup #ootd,8,7742,11984,237,3,47,112,23,399,0.0515,Monday,2,May,2025,Night
+IG0014,2025-12-31 09:25:00,Image,Behind the scenes of travel — swipe to see more.,#technology #india #instagood #fitness #explorepage,5,3651,4778,91,1,29,103,11,224,0.0614,Wednesday,9,December,2025,Morning
+IG0015,2024-08-13 00:04:00,Carousel,Behind the scenes of travel — swipe to see more.,,0,2709,4296,176,3,37,37,3,253,0.0934,Tuesday,0,August,2024,Night
+IG0016,2024-08-31 08:42:00,Reel,We just launched something new in art. Link in bio!,#reels #delhi #lifestyle #marketing #explorepage #business #india,7,6021,6778,494,27,60,66,9,647,0.1075,Saturday,8,August,2024,Morning
+IG0017,2025-02-24 14:55:00,Video,Check out our latest fitness update! What do you think?,,0,6107,9043,110,5,57,134,23,306,0.0501,Monday,14,February,2025,Afternoon
+IG0018,2024-09-11 06:12:00,Carousel,Behind the scenes of wellness — swipe to see more.,#technology #lifestyle #startup #photography #motivation #explorepage #fitness #travel,8,2639,2956,90,3,7,55,5,155,0.0587,Wednesday,6,September,2024,Morning
+IG0019,2024-04-05 07:10:00,Carousel,Check out our latest art update! What do you think?,#marketing #instagood #reels #business #travel #foodie,6,6112,7905,196,3,62,46,10,307,0.0502,Friday,7,April,2024,Morning
+IG0020,2025-04-10 09:27:00,Image,Big announcement coming soon about fashion!,#marketing #lifestyle #reels #ootd #delhi #fashion #india #art,8,5695,8591,81,2,36,31,7,150,0.0263,Thursday,9,April,2025,Morning
+IG0021,2025-06-27 05:03:00,Image,Check out our latest travel update! What do you think?,#foodie #photography #instagood #delhi #explorepage #reels #travel #ootd,8,1649,2101,78,4,29,39,6,150,0.091,Friday,5,June,2025,Morning
+IG0022,2025-06-19 10:59:00,Reel,5 tips every beginner should know about art.,#reels #nature #explorepage #motivation,4,6844,7545,290,10,158,225,21,683,0.0998,Thursday,10,June,2025,Morning
+IG0023,2024-03-15 00:29:00,Image,A day in the life: travel edition.,#foodie,1,2408,3547,38,1,33,44,3,116,0.0482,Friday,0,March,2024,Night
+IG0024,2024-09-07 11:18:00,Reel,Check out our latest tech update! What do you think?,#technology #delhi,2,3571,5665,156,8,76,139,20,379,0.1061,Saturday,11,September,2024,Morning
+IG0025,2024-04-16 04:16:00,Carousel,A day in the life: food edition.,#fitness,1,2099,3067,80,0,35,20,4,135,0.0643,Tuesday,4,April,2024,Night
+IG0026,2025-12-04 20:54:00,Video,Why fitness matters more than you think.,#india #marketing #motivation #travel,4,3541,3922,168,5,75,113,24,361,0.1019,Thursday,20,December,2025,Evening
+IG0027,2024-05-13 20:16:00,Reel,Check out our latest art update! What do you think?,#technology #delhi,2,10353,13028,485,18,312,360,59,1175,0.1135,Monday,20,May,2024,Evening
+IG0028,2024-06-01 17:02:00,Reel,A day in the life: fashion edition.,#mumbai #delhi #lifestyle #startup #instagood,5,6015,9255,258,11,140,122,13,531,0.0883,Saturday,17,June,2024,Evening
+IG0029,2024-02-10 11:13:00,Image,5 tips every beginner should know about art.,#fitness #art #delhi,3,4304,6699,142,4,70,88,16,304,0.0706,Saturday,11,February,2024,Morning
+IG0030,2024-06-30 13:01:00,Image,A day in the life: travel edition.,#nature #startup,2,3061,3941,109,4,8,47,7,168,0.0549,Sunday,13,June,2024,Afternoon
+IG0031,2024-02-09 15:14:00,Reel,We just launched something new in travel. Link in bio!,#technology #art #ootd,3,4637,5187,280,0,31,126,25,437,0.0942,Friday,15,February,2024,Afternoon
+IG0032,2024-03-12 08:22:00,Reel,Check out our latest tech update! What do you think?,#business #delhi #nature #fashion #fitness #technology #lifestyle #foodie,8,3898,4388,227,8,84,140,34,459,0.1178,Tuesday,8,March,2024,Morning
+IG0033,2024-11-17 13:38:00,Carousel,Big announcement coming soon about travel!,#fitness #business #reels #motivation #travel #art #delhi #fashion,8,8099,10005,261,3,24,293,63,581,0.0717,Sunday,13,November,2024,Afternoon
+IG0034,2025-09-30 10:42:00,Carousel,Why tech matters more than you think.,#ootd,1,2351,2769,80,2,43,61,6,186,0.0791,Tuesday,10,September,2025,Morning
+IG0035,2024-07-15 13:42:00,Video,We just launched something new in tech. Link in bio!,#photography #mumbai #ootd #business #fashion #lifestyle,6,4928,6928,266,5,45,127,6,443,0.0899,Monday,13,July,2024,Afternoon
+IG0036,2025-04-21 14:28:00,Reel,A day in the life: fitness edition.,#india #marketing #photography,3,7436,9942,438,15,125,91,12,669,0.09,Monday,14,April,2025,Afternoon
+IG0037,2024-08-28 21:19:00,Reel,We just launched something new in fashion. Link in bio!,#reels #lifestyle #fashion,3,13611,15280,952,39,240,568,103,1799,0.1322,Wednesday,21,August,2024,Night
+IG0038,2025-04-11 13:56:00,Reel,No caption,#business #marketing #instagood,3,6499,7235,315,17,128,140,25,600,0.0923,Friday,13,April,2025,Afternoon
+IG0039,2024-04-19 13:14:00,Carousel,We just launched something new in fashion. Link in bio!,#india #technology,2,6640,8585,306,16,45,40,2,407,0.0613,Friday,13,April,2024,Afternoon
+IG0040,2025-04-20 21:33:00,Reel,No caption,#instagood #nature #technology #india #startup #marketing #motivation #explorepage,8,6799,7720,307,16,26,271,28,620,0.0912,Sunday,21,April,2025,Night
+IG0041,2024-10-10 16:31:00,Reel,We just launched something new in tech. Link in bio!,#motivation #technology #foodie,3,9834,15131,765,38,111,122,24,1036,0.1053,Thursday,16,October,2024,Afternoon
+IG0042,2024-05-21 04:14:00,Image,Why wellness matters more than you think.,#lifestyle #reels #foodie #startup #india #photography,6,3599,4628,119,3,67,94,12,283,0.0786,Tuesday,4,May,2024,Night
+IG0043,2025-08-21 22:01:00,Image,We just launched something new in art. Link in bio!,#marketing #fashion #art #ootd #business #startup,6,2909,4512,96,4,22,79,10,201,0.0691,Thursday,22,August,2025,Night
+IG0044,2025-02-02 10:42:00,Reel,Behind the scenes of fashion — swipe to see more.,#photography #technology #lifestyle #fashion #business #ootd,6,6962,10967,379,15,112,121,14,627,0.0901,Sunday,10,February,2025,Morning
+IG0045,2024-02-21 08:24:00,Carousel,Why tech matters more than you think.,#reels #technology #nature #delhi #business,5,6953,10393,309,10,26,155,21,500,0.0719,Wednesday,8,February,2024,Morning
+IG0046,2025-07-06 01:22:00,Image,We just launched something new in travel. Link in bio!,#foodie #travel #fashion,3,2312,2708,62,2,8,12,2,84,0.0363,Sunday,1,July,2025,Night
+IG0047,2025-04-29 21:07:00,Reel,Behind the scenes of food — swipe to see more.,#technology #motivation #art,3,7922,9036,474,28,110,164,34,776,0.098,Tuesday,21,April,2025,Night
+IG0048,2025-08-15 00:59:00,Video,We just launched something new in fitness. Link in bio!,#mumbai #business #instagood #reels,4,2697,4014,85,2,54,17,2,158,0.0586,Friday,0,August,2025,Night
+IG0049,2025-09-06 03:50:00,Reel,Why business matters more than you think.,,0,4002,4639,198,8,98,120,29,424,0.1059,Saturday,3,September,2025,Night
+IG0050,2024-01-13 13:52:00,Reel,No caption,#fitness #startup #art #technology #lifestyle #reels #foodie,7,8514,10317,473,5,265,56,12,799,0.0938,Saturday,13,January,2024,Afternoon
+IG0051,2024-11-26 07:53:00,Carousel,We just launched something new in wellness. Link in bio!,#motivation,1,5905,8039,252,11,75,147,24,485,0.0821,Tuesday,7,November,2024,Morning
+IG0052,2024-12-10 00:31:00,Image,A day in the life: business edition.,#photography #marketing #reels #art #motivation,5,12141,15038,218,7,101,227,14,553,0.0455,Tuesday,0,December,2024,Night
+IG0053,2024-01-11 16:12:00,Video,No caption,#explorepage,1,1398,2106,56,1,28,38,9,123,0.088,Thursday,16,January,2024,Afternoon
+IG0054,2025-12-29 15:28:00,Image,A day in the life: fitness edition.,,0,1761,2758,101,1,4,23,4,129,0.0733,Monday,15,December,2025,Afternoon
+IG0055,2025-08-18 11:30:00,Video,A day in the life: tech edition.,#india #art #startup #nature #mumbai #marketing #explorepage #lifestyle,8,4711,6079,104,5,88,81,10,278,0.059,Monday,11,August,2025,Morning
+IG0056,2025-07-02 22:11:00,Reel,Behind the scenes of tech — swipe to see more.,#reels #marketing #motivation,3,5842,8672,360,18,60,141,10,579,0.0991,Wednesday,22,July,2025,Night
+IG0057,2024-11-05 00:45:00,Video,Behind the scenes of wellness — swipe to see more.,#lifestyle #motivation #travel #delhi #ootd #art #foodie #nature,8,1886,2708,79,2,8,43,6,132,0.07,Tuesday,0,November,2024,Night
+IG0058,2025-03-27 10:11:00,Image,No caption,,0,6964,9582,216,11,64,46,2,337,0.0484,Thursday,10,March,2025,Morning
+IG0059,2025-08-13 20:43:00,Image,5 tips every beginner should know about food.,,0,8258,9963,309,3,68,156,20,536,0.0649,Wednesday,20,August,2025,Evening
+IG0060,2024-09-11 03:35:00,Carousel,A day in the life: wellness edition.,#instagood #explorepage #india #business #technology #marketing,6,3924,5324,209,6,64,128,30,407,0.1037,Wednesday,3,September,2024,Night
+IG0061,2025-09-27 01:39:00,Reel,A day in the life: travel edition.,#reels,1,5778,7101,374,22,100,109,19,605,0.1047,Saturday,1,September,2025,Night
+IG0062,2024-03-17 05:00:00,Reel,No caption,#technology #marketing #ootd #travel #explorepage #lifestyle,6,7126,8486,297,16,120,239,20,672,0.0943,Sunday,5,March,2024,Morning
+IG0063,2025-10-02 18:42:00,Reel,5 tips every beginner should know about travel.,#startup #fitness #delhi,3,3720,4256,163,5,34,76,11,278,0.0747,Thursday,18,October,2025,Evening
+IG0064,2024-06-18 09:38:00,Carousel,A day in the life: art edition.,#technology #fitness #instagood #ootd,4,3097,4759,148,1,27,95,18,271,0.0875,Tuesday,9,June,2024,Morning
+IG0065,2024-02-10 13:47:00,Reel,A day in the life: fashion edition.,#instagood #motivation #fashion #foodie #explorepage,5,4311,5786,175,4,71,159,9,409,0.0949,Saturday,13,February,2024,Afternoon
+IG0066,2025-06-15 20:28:00,Reel,No caption,#photography #mumbai #startup #marketing,4,7999,10845,477,7,128,222,21,834,0.1043,Sunday,20,June,2025,Evening
+IG0067,2024-06-13 10:26:00,Reel,Big announcement coming soon about tech!,#ootd #business #delhi #travel #technology #india #photography,7,5256,6628,267,7,34,227,38,535,0.1018,Thursday,10,June,2024,Morning
+IG0068,2024-01-02 21:55:00,Carousel,Check out our latest wellness update! What do you think?,#technology #startup #travel #reels #art #ootd #business #explorepage,8,4531,5181,272,10,87,83,6,452,0.0998,Tuesday,21,January,2024,Night
+IG0069,2025-03-24 22:31:00,Reel,No caption,#fashion,1,12552,17389,467,27,259,188,13,941,0.075,Monday,22,March,2025,Night
+IG0070,2024-08-18 03:29:00,Reel,A day in the life: wellness edition.,#lifestyle,1,4073,4860,189,3,118,33,5,343,0.0842,Sunday,3,August,2024,Night
+IG0071,2025-04-28 07:29:00,Reel,Big announcement coming soon about art!,#lifestyle #business #reels #india #instagood #startup #travel #marketing,8,7220,11066,420,9,58,243,57,730,0.1011,Monday,7,April,2025,Morning
+IG0072,2024-10-16 23:19:00,Carousel,No caption,#lifestyle #technology #delhi #marketing #art #photography #motivation,7,1817,2697,80,2,21,37,3,140,0.0771,Wednesday,23,October,2024,Night
+IG0073,2024-09-01 18:24:00,Reel,Why wellness matters more than you think.,#startup #travel #nature,3,2519,3502,151,5,46,17,1,219,0.0869,Sunday,18,September,2024,Evening
+IG0074,2024-06-04 15:02:00,Reel,Behind the scenes of business — swipe to see more.,#india #mumbai,2,10132,12435,505,24,206,255,33,990,0.0977,Tuesday,15,June,2024,Afternoon
+IG0075,2025-04-12 00:46:00,Reel,No caption,#startup #lifestyle,2,6395,7613,323,15,126,263,20,727,0.1137,Saturday,0,April,2025,Night
+IG0076,2025-02-11 20:05:00,Image,We just launched something new in fitness. Link in bio!,#delhi #business #nature #marketing #travel,5,2784,3291,72,3,31,35,7,141,0.0506,Tuesday,20,February,2025,Evening
+IG0077,2024-04-02 13:06:00,Reel,A day in the life: food edition.,#technology,1,5076,6540,361,9,125,134,12,629,0.1239,Tuesday,13,April,2024,Afternoon
+IG0078,2024-10-27 11:23:00,Image,Behind the scenes of food — swipe to see more.,#lifestyle #explorepage #india #startup #photography #foodie,6,5745,8923,25,0,108,114,13,247,0.043,Sunday,11,October,2024,Morning
+IG0079,2025-05-24 18:09:00,Reel,Check out our latest tech update! What do you think?,#technology #motivation #instagood,3,7709,10536,599,29,58,140,13,826,0.1071,Saturday,18,May,2025,Evening
+IG0080,2025-07-13 05:04:00,Image,We just launched something new in tech. Link in bio!,#art #mumbai #ootd #startup #motivation #explorepage #india,7,3787,5609,97,2,63,22,4,184,0.0486,Sunday,5,July,2025,Morning
+IG0081,2025-01-25 18:22:00,Reel,Check out our latest fashion update! What do you think?,#ootd #fashion #business #motivation,4,11823,13891,548,25,283,384,72,1240,0.1049,Saturday,18,January,2025,Evening
+IG0082,2024-10-20 07:38:00,Carousel,A day in the life: fashion edition.,#explorepage #reels #motivation #lifestyle #fitness,5,2973,3540,81,3,34,57,13,175,0.0589,Sunday,7,October,2024,Morning
+IG0083,2024-05-14 02:58:00,Reel,Big announcement coming soon about food!,#nature #startup #photography #reels,4,6433,9043,507,27,193,187,35,914,0.1421,Tuesday,2,May,2024,Night
+IG0084,2024-09-20 15:51:00,Video,We just launched something new in food. Link in bio!,#nature #fitness #technology #foodie,4,2592,3598,106,3,43,80,18,232,0.0895,Friday,15,September,2024,Afternoon
+IG0085,2025-07-24 11:05:00,Carousel,Why tech matters more than you think.,#fashion #motivation #delhi #fitness #technology #photography,6,18387,23893,781,20,378,71,8,1250,0.068,Thursday,11,July,2025,Morning
+IG0086,2024-08-27 15:01:00,Reel,Check out our latest food update! What do you think?,#nature #explorepage #foodie #technology #ootd #instagood #reels #travel,8,9161,11663,496,23,148,132,18,799,0.0872,Tuesday,15,August,2024,Afternoon
+IG0087,2024-04-09 07:56:00,Reel,Why food matters more than you think.,#lifestyle #business #technology #art #startup #ootd #india #marketing,8,5804,7600,244,6,115,186,9,551,0.0949,Tuesday,7,April,2024,Morning
+IG0088,2024-10-13 01:44:00,Carousel,Big announcement coming soon about fitness!,#reels #technology #mumbai #explorepage #art,5,3925,4484,117,4,62,23,4,206,0.0525,Sunday,1,October,2024,Night
+IG0089,2025-02-11 08:12:00,Reel,We just launched something new in fitness. Link in bio!,#technology,1,5468,6536,278,9,106,41,8,434,0.0794,Tuesday,8,February,2025,Morning
+IG0090,2024-12-07 07:08:00,Carousel,We just launched something new in travel. Link in bio!,#foodie #delhi #reels,3,1059,1377,58,1,6,34,8,99,0.0935,Saturday,7,December,2024,Morning
+IG0091,2024-01-03 08:54:00,Reel,5 tips every beginner should know about tech.,#lifestyle #delhi,2,9212,12015,313,5,219,306,16,843,0.0915,Wednesday,8,January,2024,Morning
+IG0092,2025-01-01 07:37:00,Reel,Behind the scenes of art — swipe to see more.,#fashion #photography #motivation #travel #lifestyle,5,8663,9614,320,15,72,285,27,692,0.0799,Wednesday,7,January,2025,Morning
+IG0093,2025-06-09 18:06:00,Reel,Check out our latest fashion update! What do you think?,#india #explorepage #travel #instagood #ootd #mumbai #nature,7,9114,13924,424,12,204,124,13,764,0.0838,Monday,18,June,2025,Evening
+IG0094,2024-04-20 15:45:00,Image,Why business matters more than you think.,#foodie #instagood #nature #lifestyle #mumbai #marketing #india,7,4356,5709,65,3,35,43,5,146,0.0335,Saturday,15,April,2024,Afternoon
+IG0095,2025-09-11 13:06:00,Carousel,Why travel matters more than you think.,#delhi,1,6899,9001,159,5,62,246,49,472,0.0684,Thursday,13,September,2025,Afternoon
+IG0096,2025-04-09 12:26:00,Reel,Big announcement coming soon about art!,#nature,1,5706,8828,423,13,21,93,14,550,0.0964,Wednesday,12,April,2025,Afternoon
+IG0097,2025-04-30 02:05:00,Carousel,Behind the scenes of art — swipe to see more.,#foodie,1,3231,4902,127,4,20,41,2,192,0.0594,Wednesday,2,April,2025,Night
+IG0098,2024-03-02 18:35:00,Image,A day in the life: tech edition.,#nature #fitness #startup #art #delhi #marketing #india #fashion,8,4055,5016,70,2,68,34,1,174,0.0429,Saturday,18,March,2024,Evening
+IG0099,2025-11-03 15:14:00,Reel,Behind the scenes of business — swipe to see more.,#art,1,14204,20347,987,54,216,303,46,1560,0.1098,Monday,15,November,2025,Afternoon
+IG0100,2025-07-28 19:39:00,Reel,Big announcement coming soon about business!,#fashion #motivation #instagood #photography #mumbai #art #business #lifestyle,8,7744,8838,364,0,111,133,16,608,0.0785,Monday,19,July,2025,Evening
+IG0101,2025-02-14 02:09:00,Image,We just launched something new in fitness. Link in bio!,,0,4992,6679,38,2,75,43,2,158,0.0317,Friday,2,February,2025,Night
+IG0102,2024-11-15 23:20:00,Reel,5 tips every beginner should know about food.,#travel,1,4244,5721,246,6,107,39,2,398,0.0938,Friday,23,November,2024,Night
+IG0103,2025-03-29 21:27:00,Image,Big announcement coming soon about fitness!,#instagood #technology #startup #motivation #reels #business #india,7,10788,14212,295,15,176,234,24,720,0.0667,Saturday,21,March,2025,Night
+IG0104,2025-05-13 16:42:00,Carousel,We just launched something new in fashion. Link in bio!,#travel #explorepage #business #instagood,4,3050,4753,105,6,38,30,4,179,0.0587,Tuesday,16,May,2025,Afternoon
+IG0105,2024-09-18 09:20:00,Image,Why wellness matters more than you think.,#fashion,1,5705,8154,224,11,37,92,8,364,0.0638,Wednesday,9,September,2024,Morning
+IG0106,2025-05-27 17:53:00,Video,Behind the scenes of wellness — swipe to see more.,#foodie #business #travel #startup #fashion,5,5072,6037,188,10,14,121,13,333,0.0657,Tuesday,17,May,2025,Evening
+IG0107,2025-12-27 20:26:00,Video,No caption,#fitness #business #fashion #nature,4,7452,11343,235,12,21,156,14,424,0.0569,Saturday,20,December,2025,Evening
+IG0108,2024-04-18 07:27:00,Reel,5 tips every beginner should know about business.,#india #foodie #business #ootd #nature #fitness,6,6582,8358,340,4,80,184,38,608,0.0924,Thursday,7,April,2024,Morning
+IG0109,2024-07-17 11:22:00,Reel,A day in the life: food edition.,#explorepage #fitness,2,9388,13217,517,5,265,53,11,840,0.0895,Wednesday,11,July,2024,Morning
+IG0110,2025-11-02 02:11:00,Carousel,No caption,#technology #mumbai #instagood #nature #india #foodie #explorepage,7,3424,4587,207,11,84,101,13,403,0.1177,Sunday,2,November,2025,Night
+IG0111,2024-02-27 11:32:00,Carousel,No caption,#ootd,1,2816,3253,138,3,25,32,1,198,0.0703,Tuesday,11,February,2024,Morning
+IG0112,2025-10-22 02:39:00,Reel,Big announcement coming soon about travel!,#business #technology #delhi #travel #mumbai #marketing #instagood #ootd,8,5715,7384,346,7,174,221,15,748,0.1309,Wednesday,2,October,2025,Night
+IG0113,2025-04-06 03:51:00,Reel,No caption,#foodie #india #photography #travel #explorepage,5,20751,24559,1083,23,629,681,116,2416,0.1164,Sunday,3,April,2025,Night
+IG0114,2024-10-16 12:26:00,Carousel,Why fitness matters more than you think.,#instagood #travel #nature #foodie #delhi,5,3204,3877,100,4,33,18,4,155,0.0484,Wednesday,12,October,2024,Afternoon
+IG0115,2025-09-09 04:21:00,Image,Big announcement coming soon about food!,#mumbai,1,2964,4384,45,0,49,26,2,120,0.0405,Tuesday,4,September,2025,Night
+IG0116,2024-05-12 19:45:00,Carousel,Big announcement coming soon about art!,#ootd,1,10660,12213,739,17,57,359,86,1172,0.1099,Sunday,19,May,2024,Evening
+IG0117,2025-12-02 16:05:00,Image,Big announcement coming soon about travel!,#india #art #fashion #mumbai #ootd #foodie,6,4909,6751,193,5,42,49,9,289,0.0589,Tuesday,16,December,2025,Afternoon
+IG0118,2024-05-20 04:04:00,Carousel,Big announcement coming soon about fashion!,#fitness #india #delhi #mumbai,4,3423,5222,149,5,54,108,12,316,0.0923,Monday,4,May,2024,Night
+IG0119,2024-06-06 05:11:00,Carousel,Big announcement coming soon about art!,#technology #travel,2,1847,2843,92,3,39,60,11,194,0.105,Thursday,5,June,2024,Morning
+IG0120,2024-10-18 23:50:00,Image,Big announcement coming soon about travel!,#explorepage #delhi #instagood #ootd #marketing #technology #startup,7,6546,9225,309,5,116,173,9,603,0.0921,Friday,23,October,2024,Night
+IG0121,2024-10-15 12:32:00,Image,Behind the scenes of business — swipe to see more.,#startup #photography #reels #lifestyle #motivation #fashion #nature #explorepage,8,2970,4371,52,2,50,49,2,153,0.0515,Tuesday,12,October,2024,Afternoon
+IG0122,2024-03-26 05:17:00,Reel,Check out our latest business update! What do you think?,#india #lifestyle #startup #foodie #explorepage #delhi #marketing,7,6471,9162,340,14,121,249,17,724,0.1119,Tuesday,5,March,2024,Morning
+IG0123,2025-01-30 02:23:00,Image,5 tips every beginner should know about business.,#fashion #nature #fitness,3,4894,6219,153,8,18,138,25,317,0.0648,Thursday,2,January,2025,Night
+IG0124,2025-12-13 04:48:00,Reel,Why food matters more than you think.,#technology #fashion #foodie #mumbai #motivation #fitness #startup,7,10514,11919,451,12,221,71,15,755,0.0718,Saturday,4,December,2025,Night
+IG0125,2024-02-18 07:26:00,Video,Why tech matters more than you think.,#foodie #fitness #marketing #fashion #explorepage #art #instagood,7,4901,5451,118,0,58,128,23,304,0.062,Sunday,7,February,2024,Morning
+IG0126,2024-07-10 21:42:00,Carousel,Behind the scenes of business — swipe to see more.,#india,1,2052,2425,28,1,15,13,2,57,0.0278,Wednesday,21,July,2024,Night
+IG0127,2025-06-03 17:01:00,Carousel,Big announcement coming soon about fashion!,#marketing #travel #business #art #motivation #india,6,4027,6329,103,4,46,52,12,205,0.0509,Tuesday,17,June,2025,Evening
+IG0128,2025-10-05 03:49:00,Reel,No caption,#lifestyle #travel #art #nature #photography,5,5101,6154,271,11,70,214,30,566,0.111,Sunday,3,October,2025,Night
+IG0129,2025-04-13 01:18:00,Video,A day in the life: business edition.,#travel #reels #instagood,3,4645,6913,153,7,80,101,7,341,0.0734,Sunday,1,April,2025,Night
+IG0130,2024-09-16 01:48:00,Reel,A day in the life: business edition.,#ootd #art #travel,3,6490,9723,415,6,44,223,30,688,0.106,Monday,1,September,2024,Night
+IG0131,2025-03-26 12:21:00,Reel,A day in the life: business edition.,#marketing #instagood,2,3875,5390,201,10,47,94,4,352,0.0908,Wednesday,12,March,2025,Afternoon
+IG0132,2025-09-08 05:34:00,Reel,A day in the life: tech edition.,#nature #fitness #foodie #instagood,4,4542,6358,105,4,127,174,10,410,0.0903,Monday,5,September,2025,Morning
+IG0133,2025-03-30 11:28:00,Carousel,Why business matters more than you think.,,0,3937,6272,128,4,64,108,17,304,0.0772,Sunday,11,March,2025,Morning
+IG0134,2024-03-17 21:40:00,Reel,Check out our latest wellness update! What do you think?,#art #india #photography #fashion #lifestyle #startup,6,6532,7472,184,2,35,143,10,364,0.0557,Sunday,21,March,2024,Night
+IG0135,2025-01-05 12:36:00,Carousel,No caption,,0,7840,9408,352,5,131,216,12,704,0.0898,Sunday,12,January,2025,Afternoon
+IG0136,2025-08-10 04:33:00,Video,5 tips every beginner should know about fashion.,#business #nature #motivation #explorepage #fitness,5,4138,6018,115,5,74,55,11,249,0.0602,Sunday,4,August,2025,Night
+IG0137,2024-09-25 08:45:00,Reel,No caption,#reels #ootd #marketing #instagood #fitness #foodie #startup,7,6204,9359,413,17,113,225,14,768,0.1238,Wednesday,8,September,2024,Morning
+IG0138,2025-11-29 10:42:00,Reel,5 tips every beginner should know about food.,#foodie #delhi #mumbai #ootd #india,5,4071,6252,186,10,52,51,10,299,0.0734,Saturday,10,November,2025,Morning
+IG0139,2024-07-24 04:15:00,Carousel,Behind the scenes of food — swipe to see more.,#fashion #art #delhi #mumbai #technology #business #motivation,7,23246,33929,861,51,567,597,53,2076,0.0893,Wednesday,4,July,2024,Night
+IG0140,2025-05-05 16:26:00,Carousel,Big announcement coming soon about wellness!,#mumbai #foodie #lifestyle #nature #instagood #explorepage,6,3950,6059,81,3,47,60,7,191,0.0484,Monday,16,May,2025,Afternoon
+IG0141,2025-08-24 05:49:00,Video,Behind the scenes of fashion — swipe to see more.,#startup #india,2,1696,2480,100,5,33,26,2,164,0.0967,Sunday,5,August,2025,Morning
+IG0142,2025-12-27 07:22:00,Carousel,5 tips every beginner should know about fitness.,#ootd #foodie #motivation #reels #delhi #mumbai #nature #lifestyle,8,10252,15035,546,25,235,100,9,906,0.0884,Saturday,7,December,2025,Morning
+IG0143,2025-10-01 23:57:00,Video,We just launched something new in tech. Link in bio!,#mumbai #travel #fashion #foodie #instagood,5,4785,6441,136,7,52,88,10,283,0.0591,Wednesday,23,October,2025,Night
+IG0144,2025-05-24 20:34:00,Carousel,No caption,#ootd #marketing #explorepage #business,4,3728,5907,93,3,36,111,8,243,0.0652,Saturday,20,May,2025,Evening
+IG0145,2025-05-10 14:13:00,Video,5 tips every beginner should know about art.,#instagood #lifestyle #nature #delhi #art,5,1702,1934,47,1,15,47,6,110,0.0646,Saturday,14,May,2025,Afternoon
+IG0146,2024-09-04 14:07:00,Reel,A day in the life: fashion edition.,#technology #explorepage #lifestyle #fitness,4,13298,15738,810,9,324,445,64,1588,0.1194,Wednesday,14,September,2024,Afternoon
+IG0147,2024-06-12 10:59:00,Image,A day in the life: wellness edition.,#reels #photography #marketing #india #technology,5,4444,6817,191,2,30,20,3,243,0.0547,Wednesday,10,June,2024,Morning
+IG0148,2025-04-13 07:13:00,Video,Check out our latest tech update! What do you think?,#travel #instagood #ootd #marketing #india,5,5992,7538,197,2,30,195,47,424,0.0708,Sunday,7,April,2025,Morning
+IG0149,2025-01-09 12:23:00,Reel,Check out our latest art update! What do you think?,,0,6289,9647,379,13,108,211,16,711,0.1131,Thursday,12,January,2025,Afternoon
+IG0150,2024-03-16 12:32:00,Reel,Big announcement coming soon about business!,#delhi #motivation #fitness #lifestyle #instagood #reels #photography,7,10716,12869,468,27,63,362,50,920,0.0859,Saturday,12,March,2024,Afternoon
+IG0151,2025-05-27 01:02:00,Image,Big announcement coming soon about food!,,0,4919,7472,98,4,53,96,21,251,0.051,Tuesday,1,May,2025,Night
+IG0152,2025-06-11 04:20:00,Carousel,No caption,#photography #business #ootd #nature #marketing,5,8359,10096,485,14,143,61,11,703,0.0841,Wednesday,4,June,2025,Night
+IG0153,2025-03-02 18:19:00,Video,A day in the life: wellness edition.,,0,6961,10380,217,10,136,106,12,469,0.0674,Sunday,18,March,2025,Evening
+IG0154,2025-08-14 07:46:00,Carousel,5 tips every beginner should know about wellness.,,0,6321,9474,309,15,32,139,7,495,0.0783,Thursday,7,August,2025,Morning
+IG0155,2025-01-24 04:52:00,Reel,Check out our latest travel update! What do you think?,#travel #mumbai #fitness,3,2884,4175,96,3,28,60,5,187,0.0648,Friday,4,January,2025,Night
+IG0156,2024-07-27 13:32:00,Reel,Big announcement coming soon about art!,#travel #lifestyle #india #reels #nature #marketing #explorepage,7,14373,20262,970,28,403,391,57,1792,0.1247,Saturday,13,July,2024,Afternoon
+IG0157,2025-07-13 11:43:00,Reel,A day in the life: tech edition.,#instagood #marketing #reels #explorepage,4,3083,4006,112,4,63,116,24,295,0.0957,Sunday,11,July,2025,Morning
+IG0158,2024-10-22 22:13:00,Image,Why art matters more than you think.,#nature #marketing #art #motivation #ootd #travel #mumbai,7,5527,6752,202,2,104,69,4,377,0.0682,Tuesday,22,October,2024,Night
+IG0159,2024-10-24 01:18:00,Carousel,A day in the life: wellness edition.,#art,1,2819,3534,85,3,26,68,13,182,0.0646,Thursday,1,October,2024,Night
+IG0160,2024-10-04 17:44:00,Reel,We just launched something new in fashion. Link in bio!,#lifestyle #fitness #explorepage #delhi,4,3393,4039,185,3,62,120,8,370,0.109,Friday,17,October,2024,Evening
+IG0161,2025-04-28 03:43:00,Carousel,Why food matters more than you think.,#fashion #delhi,2,9815,13496,349,14,234,236,50,833,0.0849,Monday,3,April,2025,Night
+IG0162,2025-10-28 06:48:00,Image,Check out our latest travel update! What do you think?,#nature #ootd #travel #foodie,4,2474,3477,51,2,45,31,3,129,0.0521,Tuesday,6,October,2025,Morning
+IG0163,2024-06-29 01:53:00,Image,Big announcement coming soon about fitness!,#marketing #photography #ootd #travel #fashion #lifestyle,6,5662,7427,133,1,74,86,14,294,0.0519,Saturday,1,June,2024,Night
+IG0164,2025-05-20 04:54:00,Reel,5 tips every beginner should know about tech.,#technology #motivation #reels #fitness #nature #foodie #art #explorepage,8,8255,9975,452,0,179,256,40,887,0.1075,Tuesday,4,May,2025,Night
+IG0165,2025-11-21 06:11:00,Reel,5 tips every beginner should know about fitness.,#startup #india #nature #foodie #business #delhi,6,13000,17528,489,8,301,289,39,1087,0.0836,Friday,6,November,2025,Morning
+IG0166,2024-01-07 08:24:00,Image,Check out our latest tech update! What do you think?,#technology #motivation #nature,3,4978,6158,226,3,90,40,4,359,0.0721,Sunday,8,January,2024,Morning
+IG0167,2025-11-14 03:29:00,Reel,A day in the life: fitness edition.,#photography #business #india #ootd,4,4219,5735,199,9,41,118,26,367,0.087,Friday,3,November,2025,Night
+IG0168,2025-05-04 04:29:00,Carousel,No caption,#startup #delhi #marketing #reels #explorepage,5,1520,1925,72,4,26,34,6,136,0.0895,Sunday,4,May,2025,Night
+IG0169,2024-04-24 01:53:00,Carousel,Behind the scenes of wellness — swipe to see more.,#india #reels #delhi #lifestyle #photography #marketing #startup #motivation,8,4799,7576,142,6,33,104,7,285,0.0594,Wednesday,1,April,2024,Night
+IG0170,2025-06-06 14:51:00,Carousel,5 tips every beginner should know about wellness.,,0,3036,4348,183,10,23,52,4,268,0.0883,Friday,14,June,2025,Afternoon
+IG0171,2025-04-18 21:51:00,Video,Behind the scenes of travel — swipe to see more.,#fashion #business #motivation #instagood,4,4169,6341,184,7,16,107,8,314,0.0753,Friday,21,April,2025,Night
+IG0172,2024-03-02 02:59:00,Image,Big announcement coming soon about art!,#travel #ootd #startup #photography #lifestyle #business #nature,7,5374,6008,214,4,45,28,6,291,0.0541,Saturday,2,March,2024,Night
+IG0173,2025-01-21 12:05:00,Carousel,Check out our latest travel update! What do you think?,#lifestyle #art #fitness #photography #business #motivation #foodie #mumbai,8,2854,3777,59,2,66,58,14,185,0.0648,Tuesday,12,January,2025,Afternoon
+IG0174,2025-07-11 13:34:00,Image,Behind the scenes of travel — swipe to see more.,#explorepage #instagood #technology #art #lifestyle #marketing,6,3808,4913,118,6,62,92,10,278,0.073,Friday,13,July,2025,Afternoon
+IG0175,2024-01-17 07:13:00,Reel,No caption,#fitness,1,3031,4387,148,8,65,122,9,343,0.1132,Wednesday,7,January,2024,Morning
+IG0176,2024-02-15 12:28:00,Image,A day in the life: food edition.,#delhi #reels #travel,3,3591,5038,153,2,39,49,3,243,0.0677,Thursday,12,February,2024,Afternoon
+IG0177,2025-08-14 19:49:00,Reel,A day in the life: art edition.,#explorepage #ootd #lifestyle #india #instagood,5,7702,10137,411,14,122,72,12,619,0.0804,Thursday,19,August,2025,Evening
+IG0178,2024-06-28 20:43:00,Reel,Why business matters more than you think.,#delhi #marketing #travel #art #business #mumbai,6,13519,15898,858,42,222,98,24,1220,0.0902,Friday,20,June,2024,Evening
+IG0179,2025-07-04 15:15:00,Reel,Why fashion matters more than you think.,#ootd #lifestyle #technology,3,4272,4958,203,3,98,32,4,336,0.0787,Friday,15,July,2025,Afternoon
+IG0180,2024-09-05 08:13:00,Video,A day in the life: fashion edition.,#foodie #technology #art #instagood #reels,5,5093,6382,257,9,54,36,8,356,0.0699,Thursday,8,September,2024,Morning
+IG0181,2024-03-15 06:51:00,Carousel,Behind the scenes of travel — swipe to see more.,#reels #marketing #instagood #nature #ootd #technology #fashion #fitness,8,3443,4500,95,4,68,14,1,181,0.0526,Friday,6,March,2024,Morning
+IG0182,2025-12-13 19:45:00,Carousel,A day in the life: business edition.,#business #explorepage #delhi,3,3370,4608,143,1,26,123,25,293,0.0869,Saturday,19,December,2025,Evening
+IG0183,2024-09-24 11:32:00,Video,Check out our latest art update! What do you think?,#technology #fitness #marketing #nature #reels #photography #instagood,7,2318,3184,77,4,9,41,3,131,0.0565,Tuesday,11,September,2024,Morning
+IG0184,2024-09-24 17:59:00,Reel,No caption,#ootd #lifestyle #reels #nature #explorepage #delhi,6,5296,6820,398,13,136,229,55,776,0.1465,Tuesday,17,September,2024,Evening
+IG0185,2025-05-15 23:41:00,Image,5 tips every beginner should know about wellness.,#technology #photography #art #mumbai #lifestyle #delhi #motivation,7,6824,8999,99,5,18,186,26,308,0.0451,Thursday,23,May,2025,Night
+IG0186,2024-03-01 16:02:00,Carousel,Why fashion matters more than you think.,#travel,1,6845,9708,313,4,96,60,11,473,0.0691,Friday,16,March,2024,Afternoon
+IG0187,2024-06-03 00:13:00,Carousel,Check out our latest art update! What do you think?,#technology #art #travel #marketing #india #fashion #instagood #motivation,8,4012,4583,176,0,16,16,3,208,0.0518,Monday,0,June,2024,Night
+IG0188,2024-10-20 00:32:00,Image,A day in the life: travel edition.,#photography #fitness #mumbai #india #lifestyle #delhi,6,1735,2211,32,1,9,13,0,55,0.0317,Sunday,0,October,2024,Night
+IG0189,2025-01-17 12:29:00,Carousel,Behind the scenes of fashion — swipe to see more.,#explorepage #ootd #foodie,3,2960,3286,138,8,27,87,15,260,0.0878,Friday,12,January,2025,Afternoon
+IG0190,2025-10-14 00:44:00,Reel,Big announcement coming soon about art!,#foodie #marketing,2,4878,6865,270,11,90,32,7,403,0.0826,Tuesday,0,October,2025,Night
+IG0191,2025-06-24 01:14:00,Image,Behind the scenes of fashion — swipe to see more.,#mumbai #marketing #motivation,3,8107,11950,458,19,34,98,23,609,0.0751,Tuesday,1,June,2025,Night
+IG0192,2025-11-04 01:11:00,Reel,5 tips every beginner should know about tech.,#fashion #reels #lifestyle #business #foodie,5,3279,4327,101,5,33,32,2,171,0.0522,Tuesday,1,November,2025,Night
+IG0193,2025-11-24 17:21:00,Image,We just launched something new in art. Link in bio!,#lifestyle #foodie #india #art #travel #marketing,6,1741,2625,78,4,32,17,3,131,0.0752,Monday,17,November,2025,Evening
+IG0194,2025-09-01 12:49:00,Carousel,Why business matters more than you think.,#fashion #motivation #technology #marketing #explorepage,5,5962,8872,310,5,88,220,52,623,0.1045,Monday,12,September,2025,Afternoon
+IG0195,2024-03-28 19:18:00,Reel,Why food matters more than you think.,#foodie #instagood #motivation,3,5530,8090,321,6,98,227,44,652,0.1179,Thursday,19,March,2024,Evening
+IG0196,2024-11-20 11:06:00,Carousel,No caption,#fashion,1,5195,6487,390,17,115,131,26,653,0.1257,Wednesday,11,November,2024,Morning
+IG0197,2024-07-10 13:28:00,Reel,No caption,#delhi #india #startup #fitness #fashion #travel #photography #motivation,8,5075,6208,293,17,30,112,23,452,0.0891,Wednesday,13,July,2024,Afternoon
+IG0198,2024-03-27 23:57:00,Reel,A day in the life: tech edition.,#explorepage #mumbai #india #photography #business #foodie #technology #lifestyle,8,14595,20549,815,22,376,419,21,1632,0.1118,Wednesday,23,March,2024,Night
+IG0199,2025-03-07 09:30:00,Image,We just launched something new in tech. Link in bio!,#art,1,1640,1926,24,1,32,21,2,78,0.0476,Friday,9,March,2025,Morning
+IG0200,2025-04-13 03:08:00,Image,No caption,#fashion #business #nature #mumbai,4,4119,5337,167,7,8,81,9,263,0.0639,Sunday,3,April,2025,Night
+IG0201,2025-08-31 04:19:00,Image,Big announcement coming soon about art!,#instagood #reels #marketing #nature #photography,5,4022,5391,79,1,50,73,11,203,0.0505,Sunday,4,August,2025,Night
+IG0202,2025-08-12 07:20:00,Carousel,Check out our latest food update! What do you think?,#motivation #business #art #fitness #reels #ootd,6,7993,9870,416,14,33,45,5,508,0.0636,Tuesday,7,August,2025,Morning
+IG0203,2025-03-24 09:53:00,Image,5 tips every beginner should know about wellness.,#startup,1,6132,8331,232,4,48,90,6,374,0.061,Monday,9,March,2025,Morning
+IG0204,2025-03-09 12:04:00,Reel,Behind the scenes of business — swipe to see more.,#instagood #marketing #business #india #startup #motivation #fashion,7,13391,21414,933,39,205,432,89,1609,0.1202,Sunday,12,March,2025,Afternoon
+IG0205,2024-06-19 20:39:00,Reel,Big announcement coming soon about art!,,0,5921,14145,571,22,93,223,26,909,0.1535,Wednesday,20,June,2024,Evening
+IG0206,2024-09-21 07:32:00,Reel,Big announcement coming soon about food!,#delhi #mumbai #explorepage #technology #art #reels #instagood #business,8,6294,7863,227,5,98,267,58,597,0.0949,Saturday,7,September,2024,Morning
+IG0207,2024-03-28 03:53:00,Reel,No caption,#art #ootd,2,5241,7030,349,4,126,137,18,616,0.1175,Thursday,3,March,2024,Night
+IG0208,2024-04-09 14:46:00,Image,Behind the scenes of business — swipe to see more.,#nature #foodie #ootd #travel #fitness #fashion #startup,7,2614,3672,85,4,36,75,4,200,0.0765,Tuesday,14,April,2024,Afternoon
+IG0209,2024-09-06 16:11:00,Reel,5 tips every beginner should know about food.,#photography #nature #delhi #startup #technology #fitness #business #reels,8,3404,4164,163,3,37,128,17,331,0.0972,Friday,16,September,2024,Afternoon
+IG0210,2025-09-20 06:28:00,Image,Behind the scenes of fitness — swipe to see more.,#business #fashion #reels #delhi #motivation #instagood,6,3598,4018,65,3,16,62,8,146,0.0406,Saturday,6,September,2025,Morning
+IG0211,2024-07-20 14:07:00,Reel,Behind the scenes of art — swipe to see more.,#marketing #india #nature #business,4,6673,9209,414,5,101,107,20,627,0.094,Saturday,14,July,2024,Afternoon
+IG0212,2025-11-20 22:51:00,Video,Behind the scenes of business — swipe to see more.,#instagood #mumbai #foodie #lifestyle,4,6199,7432,113,3,132,132,15,380,0.0613,Thursday,22,November,2025,Night
+IG0213,2024-05-24 16:24:00,Reel,5 tips every beginner should know about food.,#instagood #lifestyle #business #startup #photography #explorepage,6,4606,5644,241,9,84,44,9,378,0.0821,Friday,16,May,2024,Afternoon
+IG0214,2025-04-06 19:03:00,Image,Why wellness matters more than you think.,#fashion #marketing #lifestyle #reels #business,5,4011,5502,90,2,43,29,6,164,0.0409,Sunday,19,April,2025,Evening
+IG0215,2025-05-15 05:05:00,Image,A day in the life: travel edition.,,0,2845,3715,163,6,8,47,9,224,0.0787,Thursday,5,May,2025,Morning
+IG0216,2025-04-13 18:47:00,Carousel,Check out our latest business update! What do you think?,#delhi #india #fitness #instagood #motivation #business #marketing,7,3190,3771,93,4,45,34,7,176,0.0552,Sunday,18,April,2025,Evening
+IG0217,2025-03-11 03:47:00,Image,Big announcement coming soon about tech!,#ootd #travel #technology,3,2986,3958,120,5,7,14,1,146,0.0489,Tuesday,3,March,2025,Night
+IG0218,2024-04-30 07:13:00,Image,Check out our latest travel update! What do you think?,#instagood #startup #photography #lifestyle #reels,5,3296,3799,240,12,29,78,18,359,0.1089,Tuesday,7,April,2024,Morning
+IG0219,2024-06-21 10:45:00,Reel,5 tips every beginner should know about fitness.,#ootd #mumbai #motivation #india,4,2128,3184,125,5,55,46,10,231,0.1086,Friday,10,June,2024,Morning
+IG0220,2024-10-10 20:08:00,Carousel,We just launched something new in business. Link in bio!,#explorepage #lifestyle,2,5941,8891,170,8,135,77,18,390,0.0656,Thursday,20,October,2024,Evening
+IG0221,2025-08-14 20:17:00,Reel,Big announcement coming soon about tech!,#business #technology #foodie #delhi #instagood #motivation,6,4313,6672,217,3,68,135,9,423,0.0981,Thursday,20,August,2025,Evening
+IG0222,2024-04-05 23:29:00,Image,No caption,#foodie #delhi #business #reels #startup,5,3689,5841,172,10,51,74,6,307,0.0832,Friday,23,April,2024,Night
+IG0223,2025-08-14 04:36:00,Image,No caption,#nature #travel #mumbai #fitness #technology #fashion #delhi,7,1893,2094,50,1,28,51,3,130,0.0687,Thursday,4,August,2025,Night
+IG0224,2025-12-06 04:56:00,Image,Behind the scenes of tech — swipe to see more.,#photography #motivation #foodie #art,4,4385,6619,115,5,33,68,14,221,0.0504,Saturday,4,December,2025,Night
+IG0225,2025-02-09 20:19:00,Carousel,We just launched something new in fashion. Link in bio!,#startup #foodie #fitness,3,4328,6553,50,0,80,136,9,266,0.0615,Sunday,20,February,2025,Evening
+IG0226,2025-11-27 14:00:00,Reel,Behind the scenes of business — swipe to see more.,,0,4696,6223,216,9,99,94,20,418,0.089,Thursday,14,November,2025,Afternoon
+IG0227,2024-03-13 07:24:00,Carousel,Big announcement coming soon about fitness!,#fitness,1,4647,5405,205,5,83,28,2,321,0.0691,Wednesday,7,March,2024,Morning
+IG0228,2024-05-16 20:43:00,Image,5 tips every beginner should know about fashion.,#foodie #india,2,5027,6231,123,5,56,56,5,240,0.0477,Thursday,20,May,2024,Evening
+IG0229,2024-06-04 13:39:00,Reel,Big announcement coming soon about art!,#reels #foodie #fitness #lifestyle #delhi #ootd #art,7,10257,16094,428,20,265,343,35,1056,0.103,Tuesday,13,June,2024,Afternoon
+IG0230,2024-10-10 20:05:00,Image,We just launched something new in tech. Link in bio!,#delhi #ootd #fashion,3,5270,6089,280,9,92,93,11,474,0.0899,Thursday,20,October,2024,Evening
+IG0231,2024-10-29 20:03:00,Video,No caption,#marketing #business #fitness,3,3612,4049,83,4,27,103,11,217,0.0601,Tuesday,20,October,2024,Evening
+IG0232,2024-01-13 11:59:00,Image,Behind the scenes of wellness — swipe to see more.,#lifestyle #business #startup #art #photography,5,5466,6061,227,0,40,138,14,405,0.0741,Saturday,11,January,2024,Morning
+IG0233,2024-02-10 01:50:00,Image,Behind the scenes of art — swipe to see more.,#india #ootd #instagood #startup #delhi #art,6,4388,6013,85,1,9,68,7,163,0.0371,Saturday,1,February,2024,Night
+IG0234,2024-03-26 09:05:00,Carousel,A day in the life: fitness edition.,#reels #lifestyle #delhi #nature #business #ootd #india #marketing,8,2549,3751,61,3,55,67,11,186,0.073,Tuesday,9,March,2024,Morning
+IG0235,2024-02-29 07:05:00,Image,5 tips every beginner should know about fashion.,#fitness #technology #travel #ootd #photography #delhi,6,5452,6091,119,7,94,93,5,313,0.0574,Thursday,7,February,2024,Morning
+IG0236,2025-06-19 16:50:00,Image,Check out our latest fitness update! What do you think?,#photography #art #lifestyle #motivation,4,2186,2507,78,3,37,58,9,176,0.0805,Thursday,16,June,2025,Afternoon
+IG0237,2024-09-26 22:36:00,Carousel,Big announcement coming soon about wellness!,#marketing,1,1681,2214,57,2,37,31,5,127,0.0756,Thursday,22,September,2024,Night
+IG0238,2024-06-10 08:49:00,Carousel,No caption,#mumbai,1,11216,13669,565,8,125,226,40,924,0.0824,Monday,8,June,2024,Morning
+IG0239,2024-01-13 07:02:00,Video,We just launched something new in art. Link in bio!,#art #business #lifestyle #photography #travel #motivation #mumbai,7,9034,12224,389,5,65,126,18,585,0.0648,Saturday,7,January,2024,Morning
+IG0240,2024-10-04 02:36:00,Reel,Why fashion matters more than you think.,#fitness #india #travel #photography #explorepage,5,4600,7294,205,6,40,143,15,394,0.0857,Friday,2,October,2024,Night
+IG0241,2024-11-14 10:05:00,Reel,No caption,#technology #fashion #art #reels #ootd #marketing #business #lifestyle,8,5204,5744,268,3,32,101,21,404,0.0776,Thursday,10,November,2024,Morning
+IG0242,2024-07-19 23:57:00,Carousel,Big announcement coming soon about fashion!,#explorepage #lifestyle #fashion #startup #delhi #fitness #motivation #photography,8,1622,2539,66,0,26,12,1,104,0.0641,Friday,23,July,2024,Night
+IG0243,2024-11-10 03:13:00,Carousel,We just launched something new in fashion. Link in bio!,#explorepage #startup #marketing #travel #lifestyle #art #delhi #india,8,4504,6535,274,4,39,76,10,393,0.0873,Sunday,3,November,2024,Night
+IG0244,2025-01-16 14:47:00,Reel,5 tips every beginner should know about fitness.,#mumbai,1,6747,9472,397,20,207,271,13,895,0.1327,Thursday,14,January,2025,Afternoon
+IG0245,2024-03-04 13:42:00,Carousel,Big announcement coming soon about tech!,#explorepage #ootd,2,4928,7112,147,4,62,79,5,292,0.0593,Monday,13,March,2024,Afternoon
+IG0246,2024-11-30 10:28:00,Reel,5 tips every beginner should know about fitness.,#explorepage #foodie #reels #lifestyle,4,5419,6178,294,16,121,184,22,615,0.1135,Saturday,10,November,2024,Morning
+IG0247,2024-05-03 17:22:00,Carousel,Behind the scenes of tech — swipe to see more.,#technology #ootd #instagood,3,5099,7836,270,4,116,30,4,420,0.0824,Friday,17,May,2024,Evening
+IG0248,2025-12-22 22:38:00,Reel,Big announcement coming soon about travel!,,0,5720,7135,299,11,25,57,9,392,0.0685,Monday,22,December,2025,Night
+IG0249,2025-02-09 16:03:00,Reel,We just launched something new in wellness. Link in bio!,#motivation #photography #fashion #business,4,9325,14200,698,21,210,155,17,1084,0.1162,Sunday,16,February,2025,Afternoon
+IG0250,2024-05-04 00:03:00,Image,Behind the scenes of business — swipe to see more.,#lifestyle #reels #business,3,7831,11834,225,12,76,90,14,403,0.0515,Saturday,0,May,2024,Night
+IG0251,2024-01-23 02:12:00,Reel,Why food matters more than you think.,#lifestyle #foodie #nature #fitness #travel #explorepage #fashion,7,13934,20123,881,16,217,152,34,1266,0.0909,Tuesday,2,January,2024,Night
+IG0252,2025-11-30 13:11:00,Reel,Check out our latest food update! What do you think?,#reels #photography #motivation #delhi #technology,5,11976,15213,786,23,145,407,69,1361,0.1136,Sunday,13,November,2025,Afternoon
+IG0253,2025-05-25 13:56:00,Reel,Check out our latest travel update! What do you think?,#marketing #travel #foodie #motivation #business #delhi #reels #fitness,8,16486,19293,810,9,292,765,97,1876,0.1138,Sunday,13,May,2025,Afternoon
+IG0254,2025-07-11 15:22:00,Reel,A day in the life: fashion edition.,#nature #business #motivation #photography #fashion #india #ootd #fitness,8,5549,6547,248,11,91,95,21,445,0.0802,Friday,15,July,2025,Afternoon
+IG0255,2025-08-21 07:10:00,Reel,A day in the life: travel edition.,#explorepage,1,5533,8544,329,16,174,95,23,614,0.111,Thursday,7,August,2025,Morning
+IG0256,2024-08-12 18:54:00,Reel,Check out our latest business update! What do you think?,#art #photography #mumbai #explorepage #nature #business,6,2455,3365,92,3,46,92,19,233,0.0949,Monday,18,August,2024,Evening
+IG0257,2024-05-25 18:12:00,Carousel,We just launched something new in travel. Link in bio!,#delhi #ootd #photography #marketing #travel #india #fashion,7,2535,3035,67,0,21,92,14,180,0.071,Saturday,18,May,2024,Evening
+IG0258,2025-09-20 06:51:00,Reel,Check out our latest business update! What do you think?,#nature #photography,2,3229,4268,193,0,47,154,34,394,0.122,Saturday,6,September,2025,Morning
+IG0259,2024-04-23 16:55:00,Carousel,Big announcement coming soon about tech!,#foodie #art #business #fitness #nature,5,13380,16064,720,8,176,295,28,1199,0.0896,Tuesday,16,April,2024,Afternoon
+IG0260,2025-10-16 15:41:00,Video,A day in the life: art edition.,#photography #delhi #art #explorepage #instagood,5,4604,6292,200,3,82,32,6,317,0.0689,Thursday,15,October,2025,Afternoon
+IG0261,2024-01-02 22:36:00,Reel,No caption,#mumbai #travel #photography #nature #explorepage #india,6,5439,8650,218,11,109,114,12,452,0.0831,Tuesday,22,January,2024,Night
+IG0262,2024-11-23 05:40:00,Reel,Check out our latest wellness update! What do you think?,#nature,1,4198,5690,304,11,118,198,26,631,0.1503,Saturday,5,November,2024,Morning
+IG0263,2024-09-19 03:46:00,Image,Why fashion matters more than you think.,,0,4573,7216,207,3,79,67,14,356,0.0778,Thursday,3,September,2024,Night
+IG0264,2025-02-27 15:56:00,Image,5 tips every beginner should know about travel.,#art #delhi #business #fitness #marketing #mumbai,6,5046,7131,23,0,53,108,21,184,0.0365,Thursday,15,February,2025,Afternoon
+IG0265,2024-01-21 10:16:00,Carousel,5 tips every beginner should know about business.,#foodie,1,3632,4646,121,2,26,130,6,279,0.0768,Sunday,10,January,2024,Morning
+IG0266,2024-04-05 10:38:00,Video,We just launched something new in business. Link in bio!,#fashion #startup #photography #mumbai #delhi #instagood #travel,7,6765,8438,242,11,126,171,13,550,0.0813,Friday,10,April,2024,Morning
+IG0267,2025-07-07 08:42:00,Image,No caption,#ootd #explorepage #fitness #travel,4,5342,7922,258,10,19,86,5,373,0.0698,Monday,8,July,2025,Morning
+IG0268,2024-10-28 21:40:00,Reel,No caption,#reels #fitness #fashion #instagood #photography #nature #lifestyle,7,4018,5120,194,9,122,31,7,356,0.0886,Monday,21,October,2024,Night
+IG0269,2025-05-15 21:16:00,Carousel,5 tips every beginner should know about art.,#delhi,1,3527,4762,143,6,12,21,2,182,0.0516,Thursday,21,May,2025,Night
+IG0270,2024-02-15 08:28:00,Reel,Behind the scenes of fitness — swipe to see more.,#motivation #explorepage #instagood #travel #lifestyle #business #art,7,3816,5730,181,5,111,71,10,368,0.0964,Thursday,8,February,2024,Morning
+IG0271,2025-08-26 07:35:00,Reel,Why art matters more than you think.,,0,6083,8526,326,13,41,262,39,642,0.1055,Tuesday,7,August,2025,Morning
+IG0272,2025-08-09 07:30:00,Carousel,Behind the scenes of food — swipe to see more.,#foodie #business #travel #india,4,12251,13915,723,15,227,386,81,1351,0.1103,Saturday,7,August,2025,Morning
+IG0273,2024-06-20 06:51:00,Carousel,Why fitness matters more than you think.,#lifestyle #travel #startup,3,2410,3585,94,3,21,19,3,137,0.0568,Thursday,6,June,2024,Morning
+IG0274,2025-09-01 08:20:00,Reel,Why art matters more than you think.,#foodie,1,3705,4075,258,3,41,130,8,432,0.1166,Monday,8,September,2025,Morning
+IG0275,2024-01-13 22:39:00,Image,Behind the scenes of fitness — swipe to see more.,#startup #fitness #instagood #lifestyle #india #ootd #technology #delhi,8,2270,2612,96,2,38,26,5,162,0.0714,Saturday,22,January,2024,Night
+IG0276,2025-07-02 11:56:00,Image,Why tech matters more than you think.,#motivation #business #marketing #delhi #travel #foodie,6,5813,7490,180,2,83,94,11,359,0.0618,Wednesday,11,July,2025,Morning
+IG0277,2024-02-09 12:56:00,Carousel,Big announcement coming soon about fashion!,#explorepage #travel #marketing #motivation #art,5,6065,8692,204,9,144,166,18,523,0.0862,Friday,12,February,2024,Afternoon
+IG0278,2025-05-18 22:43:00,Reel,A day in the life: food edition.,#explorepage,1,8173,9187,558,32,143,192,27,925,0.1132,Sunday,22,May,2025,Night
+IG0279,2024-10-02 23:26:00,Reel,We just launched something new in wellness. Link in bio!,#reels,1,2690,3029,106,3,72,111,10,292,0.1086,Wednesday,23,October,2024,Night
+IG0280,2025-06-12 11:52:00,Carousel,Behind the scenes of food — swipe to see more.,,0,8059,9734,334,13,73,67,12,487,0.0604,Thursday,11,June,2025,Morning
+IG0281,2025-06-20 18:01:00,Image,We just launched something new in fashion. Link in bio!,#reels #instagood,2,6577,8534,84,1,118,70,8,273,0.0415,Friday,18,June,2025,Evening
+IG0282,2024-07-22 08:23:00,Reel,5 tips every beginner should know about wellness.,#india #business #fitness #fashion #explorepage #photography #marketing,7,5958,7350,273,2,84,115,6,474,0.0796,Monday,8,July,2024,Morning
+IG0283,2024-12-18 05:53:00,Reel,5 tips every beginner should know about fashion.,#foodie #ootd #fashion #business,4,5167,6728,112,4,18,128,31,262,0.0507,Wednesday,5,December,2024,Morning
+IG0284,2024-08-14 20:14:00,Carousel,Check out our latest fashion update! What do you think?,#motivation #startup #india,3,2377,3534,139,5,58,18,0,220,0.0926,Wednesday,20,August,2024,Evening
+IG0285,2024-01-09 07:16:00,Image,A day in the life: wellness edition.,#motivation #startup #business #art,4,3194,3937,91,2,50,54,6,197,0.0617,Tuesday,7,January,2024,Morning
+IG0286,2025-09-30 12:37:00,Reel,A day in the life: business edition.,#fashion,1,6378,9717,316,17,164,245,34,742,0.1163,Tuesday,12,September,2025,Afternoon
+IG0287,2024-10-10 20:20:00,Reel,Check out our latest travel update! What do you think?,#motivation #ootd #reels #lifestyle,4,4685,5688,233,7,115,118,7,473,0.101,Thursday,20,October,2024,Evening
+IG0288,2025-11-07 10:43:00,Video,A day in the life: tech edition.,#fashion #marketing,2,4051,6406,134,3,26,36,2,199,0.0491,Friday,10,November,2025,Morning
+IG0289,2025-08-20 22:36:00,Carousel,Big announcement coming soon about wellness!,#nature #explorepage #delhi,3,5650,6630,356,14,63,149,15,582,0.103,Wednesday,22,August,2025,Night
+IG0290,2025-07-25 05:18:00,Reel,A day in the life: food edition.,#marketing,1,5121,6836,342,15,25,57,2,439,0.0857,Friday,5,July,2025,Morning
+IG0291,2025-11-27 10:41:00,Carousel,We just launched something new in business. Link in bio!,#explorepage,1,2500,3947,97,2,34,66,4,199,0.0796,Thursday,10,November,2025,Morning
+IG0292,2024-12-05 11:16:00,Reel,No caption,#technology #fitness #marketing #travel,4,5275,7244,377,4,42,126,11,549,0.1041,Thursday,11,December,2024,Morning
+IG0293,2025-01-25 16:19:00,Reel,5 tips every beginner should know about wellness.,#travel #lifestyle #mumbai #reels #nature #india,6,7452,9098,495,9,228,356,68,1088,0.146,Saturday,16,January,2025,Afternoon
+IG0294,2025-05-14 10:40:00,Video,No caption,#nature #travel,2,1662,2191,67,0,24,53,4,144,0.0866,Wednesday,10,May,2025,Morning
+IG0295,2024-06-11 15:50:00,Image,Why art matters more than you think.,#lifestyle,1,3694,5868,145,2,39,82,8,268,0.0726,Tuesday,15,June,2024,Afternoon
+IG0296,2024-02-08 17:12:00,Carousel,We just launched something new in fashion. Link in bio!,#fashion #nature #india #reels #instagood,5,2689,3717,133,4,7,10,1,154,0.0573,Thursday,17,February,2024,Evening
+IG0297,2024-04-15 12:32:00,Video,No caption,#photography #foodie #travel #ootd,4,5659,6853,96,5,94,34,4,229,0.0405,Monday,12,April,2024,Afternoon
+IG0298,2025-12-04 04:21:00,Reel,We just launched something new in food. Link in bio!,#art #reels #photography #business #fashion #fitness #technology,7,18487,21431,915,27,548,881,51,2371,0.1283,Thursday,4,December,2025,Night
+IG0299,2025-01-10 22:41:00,Image,A day in the life: art edition.,,0,1738,2567,17,0,21,21,4,59,0.0339,Friday,22,January,2025,Night
+IG0300,2024-02-19 21:06:00,Reel,Behind the scenes of fashion — swipe to see more.,,0,1971,2815,123,2,58,18,2,201,0.102,Monday,21,February,2024,Night
+IG0301,2025-04-30 22:09:00,Reel,A day in the life: fitness edition.,#fashion #ootd #startup,3,6552,8132,382,14,103,195,29,694,0.1059,Wednesday,22,April,2025,Night
+IG0302,2024-04-17 16:46:00,Image,Behind the scenes of fitness — swipe to see more.,#ootd,1,2220,3434,31,1,21,53,7,106,0.0477,Wednesday,16,April,2024,Afternoon
+IG0303,2025-06-19 06:22:00,Carousel,No caption,#ootd #photography #travel #marketing #reels #art,6,5699,6799,130,6,40,35,2,211,0.037,Thursday,6,June,2025,Morning
+IG0304,2024-04-23 18:42:00,Video,No caption,#lifestyle #foodie #india #mumbai #fitness #technology #instagood,7,956,1439,37,0,15,25,4,77,0.0805,Tuesday,18,April,2024,Evening
+IG0305,2024-04-12 05:55:00,Reel,Big announcement coming soon about tech!,,0,6187,7679,417,4,42,234,11,697,0.1127,Friday,5,April,2024,Morning
+IG0306,2024-04-07 01:00:00,Reel,No caption,#photography #nature,2,4017,6373,209,5,48,59,2,321,0.0799,Sunday,1,April,2024,Night
+IG0307,2025-01-16 10:11:00,Image,No caption,#business,1,7112,10840,280,7,55,158,33,500,0.0703,Thursday,10,January,2025,Morning
+IG0308,2025-03-07 20:56:00,Reel,5 tips every beginner should know about fashion.,#fitness #lifestyle,2,8963,13474,519,24,130,271,49,944,0.1053,Friday,20,March,2025,Evening
+IG0309,2025-08-05 21:28:00,Reel,Check out our latest business update! What do you think?,#instagood #business,2,15696,18578,1006,39,480,104,10,1629,0.1038,Tuesday,21,August,2025,Night
+IG0310,2024-05-13 15:58:00,Carousel,Check out our latest business update! What do you think?,#fitness #startup #technology #travel #foodie #lifestyle #nature,7,8116,12007,206,7,113,131,30,457,0.0563,Monday,15,May,2024,Afternoon
+IG0311,2025-08-13 23:36:00,Image,Why fitness matters more than you think.,#nature #india #mumbai,3,6601,8784,307,13,99,173,18,592,0.0897,Wednesday,23,August,2025,Night
+IG0312,2025-11-23 20:24:00,Image,5 tips every beginner should know about fashion.,#delhi #travel,2,2678,3395,46,2,39,60,9,147,0.0549,Sunday,20,November,2025,Evening
+IG0313,2024-06-18 02:48:00,Video,Why art matters more than you think.,#nature #explorepage #instagood #motivation #travel #india #fitness,7,1075,1270,37,1,10,4,0,52,0.0484,Tuesday,2,June,2024,Night
+IG0314,2025-08-09 14:05:00,Reel,No caption,#technology #nature #fitness #marketing #fashion #travel #reels,7,2527,3670,137,5,78,17,2,237,0.0938,Saturday,14,August,2025,Afternoon
+IG0315,2025-09-10 19:40:00,Image,Big announcement coming soon about business!,#india #delhi #reels #technology,4,3194,4791,107,3,13,84,6,207,0.0648,Wednesday,19,September,2025,Evening
+IG0316,2024-12-05 17:49:00,Reel,A day in the life: business edition.,#art #technology #fitness #delhi #explorepage #fashion #photography,7,8530,12252,458,10,180,251,54,899,0.1054,Thursday,17,December,2024,Evening
+IG0317,2024-06-17 15:08:00,Image,We just launched something new in art. Link in bio!,#fitness #motivation #reels #delhi #instagood #technology,6,3783,4705,77,2,49,45,8,173,0.0457,Monday,15,June,2024,Afternoon
+IG0318,2024-04-20 13:02:00,Reel,No caption,#technology,1,4338,6258,139,1,60,197,35,397,0.0915,Saturday,13,April,2024,Afternoon
+IG0319,2025-07-20 13:53:00,Carousel,Why business matters more than you think.,#india #photography #mumbai #lifestyle #fitness #reels #nature,7,2371,3104,119,1,20,31,4,171,0.0721,Sunday,13,July,2025,Afternoon
+IG0320,2024-09-11 08:25:00,Video,Big announcement coming soon about tech!,#ootd #technology #lifestyle #delhi #startup,5,4077,4850,110,1,41,102,19,254,0.0623,Wednesday,8,September,2024,Morning
+IG0321,2024-07-24 06:39:00,Carousel,Behind the scenes of business — swipe to see more.,#art #lifestyle #photography #india,4,2474,3048,45,1,21,33,5,100,0.0404,Wednesday,6,July,2024,Morning
+IG0322,2025-11-14 22:26:00,Video,Check out our latest fashion update! What do you think?,#ootd #startup #fashion #india #fitness #delhi #reels #foodie,8,2692,3062,107,2,10,56,9,175,0.065,Friday,22,November,2025,Night
+IG0323,2024-10-20 21:16:00,Carousel,Check out our latest travel update! What do you think?,#travel #ootd,2,8756,12302,449,10,139,288,68,886,0.1012,Sunday,21,October,2024,Night
+IG0324,2025-11-22 23:35:00,Reel,Check out our latest tech update! What do you think?,#delhi #business #explorepage,3,7889,9477,479,21,179,176,9,855,0.1084,Saturday,23,November,2025,Night
+IG0325,2025-12-02 10:35:00,Carousel,A day in the life: fashion edition.,,0,3801,6000,74,3,25,100,24,202,0.0531,Tuesday,10,December,2025,Morning
+IG0326,2025-03-29 07:58:00,Reel,5 tips every beginner should know about wellness.,#mumbai #delhi #reels #instagood #ootd,5,5750,6591,322,17,90,91,12,520,0.0904,Saturday,7,March,2025,Morning
+IG0327,2025-06-10 03:24:00,Image,A day in the life: art edition.,,0,3672,5165,108,2,54,20,1,184,0.0501,Tuesday,3,June,2025,Night
+IG0328,2024-09-18 00:21:00,Image,No caption,#lifestyle #travel #instagood #nature #mumbai #business #india,7,2365,2921,46,0,24,53,9,123,0.052,Wednesday,0,September,2024,Night
+IG0329,2025-12-25 10:33:00,Carousel,Why food matters more than you think.,#photography #india #foodie,3,5695,8607,292,10,39,139,27,480,0.0843,Thursday,10,December,2025,Morning
+IG0330,2024-08-06 21:21:00,Image,Behind the scenes of fashion — swipe to see more.,#art #ootd #reels #india #marketing,5,2392,3075,79,3,27,24,2,133,0.0556,Tuesday,21,August,2024,Night
+IG0331,2025-09-20 19:15:00,Image,Why business matters more than you think.,,0,6693,8882,261,5,98,97,13,461,0.0689,Saturday,19,September,2025,Evening
+IG0332,2025-07-07 23:18:00,Carousel,No caption,,0,3364,4447,154,3,46,18,2,221,0.0657,Monday,23,July,2025,Night
+IG0333,2024-11-24 16:05:00,Video,Behind the scenes of fashion — swipe to see more.,#photography,1,4600,6002,139,3,24,37,2,203,0.0441,Sunday,16,November,2024,Afternoon
+IG0334,2025-12-02 13:53:00,Reel,Behind the scenes of art — swipe to see more.,#reels,1,8997,13559,559,8,103,163,16,833,0.0926,Tuesday,13,December,2025,Afternoon
+IG0335,2024-12-05 01:05:00,Carousel,A day in the life: food edition.,#travel,1,1398,1785,71,3,13,48,11,135,0.0966,Thursday,1,December,2024,Night
+IG0336,2024-09-21 13:24:00,Reel,Behind the scenes of fashion — swipe to see more.,#business #startup #nature #fashion #instagood #delhi #travel,7,6107,9591,179,2,88,175,26,444,0.0727,Saturday,13,September,2024,Afternoon
+IG0337,2024-03-15 11:59:00,Reel,Check out our latest art update! What do you think?,#fitness #ootd #mumbai #foodie #delhi #business #explorepage #reels,8,7329,11132,524,24,116,228,18,892,0.1217,Friday,11,March,2024,Morning
+IG0338,2025-02-04 17:18:00,Carousel,No caption,#ootd #art,2,6177,7503,163,2,15,173,33,353,0.0571,Tuesday,17,February,2025,Evening
+IG0339,2025-07-04 17:05:00,Carousel,5 tips every beginner should know about food.,#reels #art #instagood #startup,4,3899,4979,163,3,55,94,9,315,0.0808,Friday,17,July,2025,Evening
+IG0340,2024-04-27 05:42:00,Reel,Behind the scenes of wellness — swipe to see more.,,0,2730,3302,145,5,52,62,8,264,0.0967,Saturday,5,April,2024,Morning
+IG0341,2025-08-17 15:21:00,Carousel,Big announcement coming soon about travel!,#lifestyle #explorepage #fitness #ootd #foodie,5,8270,9806,448,13,182,207,32,850,0.1028,Sunday,15,August,2025,Afternoon
+IG0342,2025-12-11 18:09:00,Reel,We just launched something new in travel. Link in bio!,#nature #startup #photography #fashion #instagood,5,3501,4441,187,8,31,76,17,302,0.0863,Thursday,18,December,2025,Evening
+IG0343,2025-01-03 04:43:00,Reel,Behind the scenes of wellness — swipe to see more.,#marketing #technology #mumbai #art #ootd,5,1330,1475,83,1,22,38,6,144,0.1083,Friday,4,January,2025,Night
+IG0344,2024-05-23 17:12:00,Carousel,Why fashion matters more than you think.,#foodie #instagood #fashion #india,4,5310,8060,361,18,71,79,16,529,0.0996,Thursday,17,May,2024,Evening
+IG0345,2024-09-23 17:57:00,Carousel,5 tips every beginner should know about tech.,#marketing #lifestyle #art #business #explorepage #technology #india #ootd,8,5468,8427,200,2,61,168,38,431,0.0788,Monday,17,September,2024,Evening
+IG0346,2025-05-29 00:42:00,Reel,No caption,#instagood #photography #india,3,9289,14714,221,9,49,195,41,474,0.051,Thursday,0,May,2025,Night
+IG0347,2024-05-29 23:46:00,Carousel,We just launched something new in business. Link in bio!,#art #travel #explorepage #marketing #delhi #mumbai #lifestyle,7,2515,3207,78,1,27,48,9,154,0.0612,Wednesday,23,May,2024,Night
+IG0348,2025-01-04 12:30:00,Carousel,5 tips every beginner should know about tech.,#travel #instagood #nature #fitness #motivation #startup #art,7,6512,8739,151,7,129,144,9,431,0.0662,Saturday,12,January,2025,Afternoon
+IG0349,2024-03-20 16:16:00,Image,Check out our latest wellness update! What do you think?,#explorepage #india #business #art #mumbai #instagood,6,7848,11582,294,10,35,165,28,504,0.0642,Wednesday,16,March,2024,Afternoon
+IG0350,2024-03-19 16:41:00,Image,Behind the scenes of business — swipe to see more.,#reels #lifestyle #photography #delhi,4,2853,4408,71,3,44,54,9,172,0.0603,Tuesday,16,March,2024,Afternoon
+IG0351,2024-04-26 15:43:00,Image,5 tips every beginner should know about food.,#marketing #reels #photography #startup #fashion #fitness #instagood,7,10153,11962,442,20,69,85,9,616,0.0607,Friday,15,April,2024,Afternoon
+IG0352,2024-05-30 01:10:00,Reel,Behind the scenes of tech — swipe to see more.,#photography #india #business #fashion,4,4751,7382,177,3,25,165,20,370,0.0779,Thursday,1,May,2024,Night
+IG0353,2025-05-08 05:14:00,Image,No caption,#instagood #lifestyle #photography #india #motivation #foodie,6,6698,8278,261,6,126,135,15,528,0.0788,Thursday,5,May,2025,Morning
+IG0354,2024-05-15 03:01:00,Reel,Behind the scenes of food — swipe to see more.,#india #instagood #startup,3,8090,9783,356,8,180,323,66,867,0.1072,Wednesday,3,May,2024,Night
+IG0355,2025-06-28 16:48:00,Image,5 tips every beginner should know about wellness.,#foodie,1,3808,2841,92,2,5,57,5,156,0.041,Saturday,16,June,2025,Afternoon
+IG0356,2025-11-25 20:27:00,Carousel,Big announcement coming soon about art!,#startup #art #travel #india #instagood #fitness #business #explorepage,8,4796,6050,196,10,47,163,40,416,0.0867,Tuesday,20,November,2025,Evening
+IG0357,2025-12-14 18:06:00,Image,A day in the life: art edition.,#lifestyle #motivation #marketing #explorepage #foodie #instagood,6,2812,3904,95,1,56,33,6,185,0.0658,Sunday,18,December,2025,Evening
+IG0358,2025-08-14 16:07:00,Image,A day in the life: art edition.,#fashion #business #reels #nature #startup #photography #travel #foodie,8,2081,2312,53,2,25,23,4,103,0.0495,Thursday,16,August,2025,Afternoon
+IG0359,2025-09-18 08:43:00,Reel,A day in the life: wellness edition.,#reels #startup #delhi #marketing #photography #india,6,12139,13589,829,33,235,385,85,1482,0.1221,Thursday,8,September,2025,Morning
+IG0360,2025-02-11 23:08:00,Carousel,5 tips every beginner should know about wellness.,#explorepage,1,4928,7285,199,9,55,56,9,319,0.0647,Tuesday,23,February,2025,Night
+IG0361,2025-07-17 19:44:00,Video,No caption,,0,3575,4875,137,8,77,80,16,302,0.0845,Thursday,19,July,2025,Evening
+IG0362,2024-05-28 15:59:00,Image,Why fashion matters more than you think.,#foodie #instagood #motivation #explorepage #art #travel,6,2628,3488,85,3,22,74,6,184,0.07,Tuesday,15,May,2024,Afternoon
+IG0363,2024-10-20 22:38:00,Carousel,No caption,,0,8393,11954,433,7,141,201,17,782,0.0932,Sunday,22,October,2024,Night
+IG0364,2025-06-14 09:12:00,Image,5 tips every beginner should know about travel.,,0,10860,16492,230,2,174,211,40,617,0.0568,Saturday,9,June,2025,Morning
+IG0365,2024-06-10 02:17:00,Image,Behind the scenes of fitness — swipe to see more.,#art #business #mumbai #reels #fashion #instagood,6,2123,2761,134,5,14,59,9,212,0.0999,Monday,2,June,2024,Night
+IG0366,2025-08-19 11:22:00,Carousel,A day in the life: fashion edition.,#explorepage #reels #technology #business,4,3522,3930,134,1,56,117,26,308,0.0875,Tuesday,11,August,2025,Morning
+IG0367,2025-05-30 09:21:00,Carousel,A day in the life: tech edition.,#india,1,5761,8889,195,9,51,177,44,432,0.075,Friday,9,May,2025,Morning
+IG0368,2024-09-06 10:49:00,Reel,We just launched something new in art. Link in bio!,#technology #mumbai #fashion #marketing #fitness #lifestyle #travel,7,6695,10622,436,22,33,129,8,620,0.0926,Friday,10,September,2024,Morning
+IG0369,2024-12-27 16:34:00,Video,We just launched something new in tech. Link in bio!,,0,4836,7587,165,4,17,46,4,232,0.048,Friday,16,December,2024,Afternoon
+IG0370,2024-12-16 02:35:00,Carousel,We just launched something new in business. Link in bio!,#marketing #nature,2,3473,4111,118,6,68,126,17,318,0.0916,Monday,2,December,2024,Night
+IG0371,2025-11-30 06:31:00,Reel,We just launched something new in travel. Link in bio!,#explorepage #instagood #motivation,3,4158,5196,267,4,44,83,15,398,0.0957,Sunday,6,November,2025,Morning
+IG0372,2024-06-08 03:07:00,Reel,Check out our latest fashion update! What do you think?,#marketing,1,8080,9481,374,19,61,67,9,521,0.0645,Saturday,3,June,2024,Night
+IG0373,2025-08-11 08:31:00,Reel,We just launched something new in art. Link in bio!,#india #motivation,2,12254,14319,734,25,90,389,40,1238,0.101,Monday,8,August,2025,Morning
+IG0374,2025-03-09 15:34:00,Carousel,Why business matters more than you think.,,0,4353,5455,141,1,51,83,16,276,0.0634,Sunday,15,March,2025,Afternoon
+IG0375,2024-05-03 22:33:00,Carousel,Big announcement coming soon about business!,#nature #fashion #mumbai #reels #business #ootd #travel,7,8470,12968,400,14,181,314,71,909,0.1073,Friday,22,May,2024,Night
+IG0376,2024-08-30 08:30:00,Reel,Big announcement coming soon about art!,#art #photography #marketing #startup #reels,5,5670,8339,211,7,155,115,25,488,0.0861,Friday,8,August,2024,Morning
+IG0377,2025-08-08 04:36:00,Reel,Why art matters more than you think.,#fitness #motivation #explorepage,3,4361,6459,120,2,133,53,8,308,0.0706,Friday,4,August,2025,Night
+IG0378,2025-04-29 00:11:00,Carousel,Check out our latest tech update! What do you think?,#marketing #lifestyle #india #nature #instagood #mumbai,6,15420,18733,605,17,268,131,21,1021,0.0662,Tuesday,0,April,2025,Night
+IG0379,2024-09-17 15:53:00,Reel,A day in the life: business edition.,#technology,1,3534,4210,175,4,105,165,27,449,0.1271,Tuesday,15,September,2024,Afternoon
+IG0380,2024-09-20 11:01:00,Reel,No caption,#fitness #art #reels #photography #ootd #india,6,11383,14612,500,18,313,446,37,1277,0.1122,Friday,11,September,2024,Morning
+IG0381,2025-09-20 09:29:00,Carousel,Why art matters more than you think.,#photography #nature,2,3126,4804,94,2,7,103,21,206,0.0659,Saturday,9,September,2025,Morning
+IG0382,2024-08-21 10:20:00,Carousel,No caption,#motivation #business #instagood #technology,4,3205,4259,144,2,43,111,6,300,0.0936,Wednesday,10,August,2024,Morning
+IG0383,2024-08-28 21:16:00,Reel,Why food matters more than you think.,#reels,1,4060,6310,184,6,101,46,6,337,0.083,Wednesday,21,August,2024,Night
+IG0384,2025-07-15 01:01:00,Carousel,A day in the life: art edition.,#india #foodie #fitness #motivation #lifestyle #travel,6,3407,5157,183,2,24,51,7,260,0.0763,Tuesday,1,July,2025,Night
+IG0385,2024-05-09 04:33:00,Carousel,Big announcement coming soon about business!,#fashion #travel,2,4604,6218,214,2,68,85,18,369,0.0801,Thursday,4,May,2024,Night
+IG0386,2024-10-05 17:28:00,Reel,Why wellness matters more than you think.,#delhi #photography,2,5681,6923,253,11,36,176,18,476,0.0838,Saturday,17,October,2024,Evening
+IG0387,2024-12-21 15:34:00,Reel,Why business matters more than you think.,#foodie #technology #ootd,3,5921,14778,592,9,290,171,31,1062,0.1794,Saturday,15,December,2024,Afternoon
+IG0388,2024-05-19 11:18:00,Carousel,A day in the life: art edition.,#delhi #fashion #marketing #instagood #ootd #mumbai #business,7,4132,4681,180,9,59,123,11,371,0.0898,Sunday,11,May,2024,Morning
+IG0389,2024-07-12 13:56:00,Reel,Behind the scenes of tech — swipe to see more.,#startup #business #explorepage #photography #mumbai #instagood #reels #fitness,8,7692,9482,455,19,94,318,76,886,0.1152,Friday,13,July,2024,Afternoon
+IG0390,2025-09-19 22:43:00,Image,Behind the scenes of travel — swipe to see more.,#ootd #delhi #motivation #startup,4,2232,2769,103,1,33,49,8,186,0.0833,Friday,22,September,2025,Night
+IG0391,2025-09-24 14:17:00,Video,Behind the scenes of food — swipe to see more.,#reels #nature #fashion #lifestyle #travel #motivation #delhi,7,2201,2507,38,0,19,61,14,118,0.0536,Wednesday,14,September,2025,Afternoon
+IG0392,2024-01-09 07:05:00,Reel,Big announcement coming soon about travel!,#fashion #marketing,2,8285,9369,395,7,168,93,22,663,0.08,Tuesday,7,January,2024,Morning
+IG0393,2025-01-15 14:44:00,Carousel,Behind the scenes of business — swipe to see more.,,0,1837,2453,78,3,35,42,9,158,0.086,Wednesday,14,January,2025,Afternoon
+IG0394,2025-02-05 02:34:00,Image,Why travel matters more than you think.,#photography #reels #motivation #business #fashion #travel #india,7,2160,2810,122,6,39,24,4,191,0.0884,Wednesday,2,February,2025,Night
+IG0395,2024-02-04 06:29:00,Reel,No caption,#india,1,4419,5616,212,10,29,161,25,412,0.0932,Sunday,6,February,2024,Morning
+IG0396,2024-06-11 20:46:00,Reel,A day in the life: fitness edition.,,0,2035,2845,108,1,13,57,13,179,0.088,Tuesday,20,June,2024,Evening
+IG0397,2024-02-23 21:13:00,Reel,Big announcement coming soon about art!,#explorepage,1,9308,14574,712,0,205,405,52,1322,0.142,Friday,21,February,2024,Night
+IG0398,2025-02-09 07:00:00,Reel,5 tips every beginner should know about wellness.,,0,5445,7559,304,4,171,76,4,555,0.1019,Sunday,7,February,2025,Morning
+IG0399,2024-04-03 21:39:00,Carousel,No caption,#travel #instagood #art #lifestyle #fitness,5,5744,6614,356,13,52,203,43,624,0.1086,Wednesday,21,April,2024,Night
+IG0400,2024-12-21 14:46:00,Video,A day in the life: food edition.,#fashion #business #art,3,1402,1577,28,1,15,14,2,58,0.0414,Saturday,14,December,2024,Afternoon
+IG0401,2024-10-28 17:44:00,Reel,5 tips every beginner should know about tech.,#reels #mumbai #photography #art #nature #india #explorepage,7,2087,3155,153,5,27,42,8,227,0.1088,Monday,17,October,2024,Evening
+IG0402,2024-09-26 17:23:00,Reel,We just launched something new in business. Link in bio!,#fashion #india #business #photography #instagood #ootd #startup,7,2525,3839,45,1,66,101,12,213,0.0844,Thursday,17,September,2024,Evening
+IG0403,2025-01-31 06:33:00,Carousel,Behind the scenes of fitness — swipe to see more.,#delhi #lifestyle #ootd #nature #startup #india #photography,7,5704,6612,241,10,82,27,3,360,0.0631,Friday,6,January,2025,Morning
+IG0404,2024-05-12 05:55:00,Reel,Behind the scenes of travel — swipe to see more.,,0,7475,11852,324,14,38,170,12,546,0.073,Sunday,5,May,2024,Morning
+IG0405,2025-02-01 21:31:00,Carousel,Check out our latest fitness update! What do you think?,#instagood #mumbai #motivation #travel #art #fitness #ootd #marketing,8,5024,5719,228,8,58,160,34,454,0.0904,Saturday,21,February,2025,Night
+IG0406,2024-03-22 14:51:00,Carousel,Why business matters more than you think.,,0,2140,2467,65,1,37,55,3,158,0.0738,Friday,14,March,2024,Afternoon
+IG0407,2025-09-23 08:33:00,Reel,A day in the life: fitness edition.,,0,4734,7165,214,6,38,202,32,460,0.0972,Tuesday,8,September,2025,Morning
+IG0408,2024-04-13 23:14:00,Reel,Behind the scenes of art — swipe to see more.,#business #reels #mumbai #india #explorepage #ootd #nature #foodie,8,15294,24150,792,43,460,678,120,1973,0.129,Saturday,23,April,2024,Night
+IG0409,2025-12-20 21:27:00,Carousel,Why food matters more than you think.,#photography,1,10184,13907,356,11,193,321,25,881,0.0865,Saturday,21,December,2025,Night
+IG0410,2025-09-06 14:59:00,Image,Big announcement coming soon about art!,#nature #delhi #instagood #art #startup,5,7046,9270,215,11,45,181,26,452,0.0641,Saturday,14,September,2025,Afternoon
+IG0411,2025-07-17 23:16:00,Carousel,Check out our latest tech update! What do you think?,#technology #instagood #business #fashion #travel,5,6589,8319,107,2,17,242,58,368,0.0559,Thursday,23,July,2025,Night
+IG0412,2024-11-03 07:13:00,Reel,Check out our latest fitness update! What do you think?,#fashion #motivation #delhi #india #lifestyle,5,3622,5199,277,15,53,139,14,484,0.1336,Sunday,7,November,2024,Morning
+IG0413,2025-08-19 07:14:00,Video,Big announcement coming soon about fitness!,#ootd #foodie #business #reels,4,4170,5962,129,2,86,36,6,253,0.0607,Tuesday,7,August,2025,Morning
+IG0414,2025-12-07 22:36:00,Reel,Check out our latest tech update! What do you think?,#instagood,1,7463,9766,215,3,113,279,64,610,0.0817,Sunday,22,December,2025,Night
+IG0415,2024-02-27 10:22:00,Reel,Check out our latest tech update! What do you think?,#startup #fitness #explorepage #fashion #business #india,6,3669,4066,199,7,28,54,2,288,0.0785,Tuesday,10,February,2024,Morning
+IG0416,2025-12-15 07:09:00,Image,No caption,,0,4770,7456,117,1,12,88,11,218,0.0457,Monday,7,December,2025,Morning
+IG0417,2025-03-18 09:50:00,Reel,Why fashion matters more than you think.,#lifestyle #instagood #nature #foodie #marketing #ootd,6,5269,7870,279,3,106,115,28,503,0.0955,Tuesday,9,March,2025,Morning
+IG0418,2025-12-15 04:48:00,Carousel,No caption,#marketing #delhi,2,7680,9490,233,6,114,41,5,394,0.0513,Monday,4,December,2025,Night
+IG0419,2025-06-20 07:15:00,Image,Big announcement coming soon about art!,#motivation,1,2630,3190,107,6,9,39,4,161,0.0612,Friday,7,June,2025,Morning
+IG0420,2025-02-27 13:23:00,Image,Big announcement coming soon about food!,#reels #nature #art #fashion #ootd,5,735,931,17,0,3,13,2,33,0.0449,Thursday,13,February,2025,Afternoon
+IG0421,2024-05-29 14:02:00,Image,Behind the scenes of fitness — swipe to see more.,#reels #art #lifestyle,3,3312,4087,88,2,47,15,0,152,0.0459,Wednesday,14,May,2024,Afternoon
+IG0422,2024-05-31 09:00:00,Reel,We just launched something new in business. Link in bio!,#fitness #ootd #technology #marketing #fashion,5,3462,4918,205,11,100,61,5,377,0.1089,Friday,9,May,2024,Morning
+IG0423,2024-09-21 17:30:00,Reel,A day in the life: fashion edition.,#fashion #business,2,8854,13396,374,19,129,102,20,624,0.0705,Saturday,17,September,2024,Evening
+IG0424,2025-09-24 08:03:00,Reel,A day in the life: fashion edition.,#fashion #foodie #business #motivation #art #startup #travel,7,3016,3440,224,3,95,141,29,463,0.1535,Wednesday,8,September,2025,Morning
+IG0425,2025-01-24 16:45:00,Carousel,Behind the scenes of wellness — swipe to see more.,#nature,1,8120,10107,351,14,95,147,17,607,0.0748,Friday,16,January,2025,Afternoon
+IG0426,2025-12-30 00:02:00,Carousel,No caption,#india #ootd #nature,3,3708,5811,179,9,55,111,5,354,0.0955,Tuesday,0,December,2025,Night
+IG0427,2024-12-29 20:19:00,Image,Why tech matters more than you think.,#india #motivation #travel,3,5244,6431,116,1,22,154,28,293,0.0559,Sunday,20,December,2024,Evening
+IG0428,2025-07-22 08:14:00,Image,Behind the scenes of food — swipe to see more.,#nature #business,2,6980,9751,105,4,86,101,10,296,0.0424,Tuesday,8,July,2025,Morning
+IG0429,2025-10-02 21:14:00,Image,No caption,#explorepage #mumbai #lifestyle #startup #ootd #technology,6,5436,6613,92,4,32,25,1,153,0.0281,Thursday,21,October,2025,Night
+IG0430,2025-07-08 21:51:00,Carousel,Why food matters more than you think.,#lifestyle #ootd #india,3,2856,3824,178,4,37,12,0,231,0.0809,Tuesday,21,July,2025,Night
+IG0431,2025-08-01 05:20:00,Reel,5 tips every beginner should know about fitness.,#delhi,1,6073,7975,317,5,71,203,49,596,0.0981,Friday,5,August,2025,Morning
+IG0432,2024-11-22 13:26:00,Reel,5 tips every beginner should know about fitness.,#technology #motivation #lifestyle #reels,4,6448,8910,433,5,37,198,23,673,0.1044,Friday,13,November,2024,Afternoon
+IG0433,2024-09-30 19:36:00,Image,Big announcement coming soon about fashion!,#instagood #explorepage #mumbai,3,2023,2948,50,1,29,55,11,135,0.0667,Monday,19,September,2024,Evening
+IG0434,2025-09-11 15:45:00,Carousel,We just launched something new in food. Link in bio!,#photography #business #marketing #delhi #lifestyle,5,5571,6952,209,4,41,145,25,399,0.0716,Thursday,15,September,2025,Afternoon
+IG0435,2024-10-03 13:14:00,Carousel,No caption,#reels #foodie #photography,3,8637,11904,207,3,39,274,64,523,0.0606,Thursday,13,October,2024,Afternoon
+IG0436,2025-03-13 12:49:00,Carousel,Big announcement coming soon about art!,,0,4042,5919,127,2,10,112,13,251,0.0621,Thursday,12,March,2025,Afternoon
+IG0437,2025-07-03 16:41:00,Reel,No caption,,0,5905,9008,336,12,106,50,7,504,0.0854,Thursday,16,July,2025,Afternoon
+IG0438,2024-09-08 16:34:00,Reel,No caption,#travel #delhi #business #india #instagood #fitness,6,2468,3011,166,4,14,30,7,214,0.0867,Sunday,16,September,2024,Afternoon
+IG0439,2025-04-17 05:27:00,Carousel,No caption,#instagood #travel #india #lifestyle,4,8193,13090,350,17,80,115,15,562,0.0686,Thursday,5,April,2025,Morning
+IG0440,2025-08-22 22:34:00,Carousel,No caption,#business #startup,2,2413,2815,137,0,37,65,12,239,0.099,Friday,22,August,2025,Night
+IG0441,2024-07-25 14:05:00,Image,No caption,#nature #photography #fitness #foodie,4,3640,5333,163,3,8,38,5,212,0.0582,Thursday,14,July,2024,Afternoon
+IG0442,2025-06-07 19:10:00,Carousel,5 tips every beginner should know about food.,#delhi #business #travel #photography #nature #ootd,6,3730,4337,190,2,49,87,13,328,0.0879,Saturday,19,June,2025,Evening
+IG0443,2025-03-05 09:19:00,Reel,Check out our latest tech update! What do you think?,#ootd #photography #fitness #lifestyle #reels #fashion #instagood,7,11150,13568,970,49,49,293,55,1361,0.1221,Wednesday,9,March,2025,Morning
+IG0444,2024-01-06 19:56:00,Reel,We just launched something new in fashion. Link in bio!,#explorepage #reels #marketing #technology #startup #instagood #travel,7,9629,14915,367,14,233,197,35,811,0.0842,Saturday,19,January,2024,Evening
+IG0445,2024-07-31 01:11:00,Carousel,5 tips every beginner should know about fashion.,#travel #art,2,6326,8718,177,9,18,91,5,295,0.0466,Wednesday,1,July,2024,Night
+IG0446,2024-11-01 10:58:00,Image,Why fitness matters more than you think.,#travel,1,2070,2976,91,4,21,29,6,145,0.07,Friday,10,November,2024,Morning
+IG0447,2025-11-07 22:44:00,Reel,Why business matters more than you think.,#photography #technology #art #travel #foodie #business #lifestyle #instagood,8,6567,10406,272,3,85,175,14,535,0.0815,Friday,22,November,2025,Night
+IG0448,2024-03-07 09:30:00,Carousel,Why business matters more than you think.,#fitness #motivation,2,2413,2793,50,1,27,62,8,140,0.058,Thursday,9,March,2024,Morning
+IG0449,2024-04-21 18:46:00,Carousel,5 tips every beginner should know about business.,#foodie #marketing #ootd #startup #nature #lifestyle #motivation #delhi,8,5004,7892,217,7,80,117,15,421,0.0841,Sunday,18,April,2024,Evening
+IG0450,2025-05-24 15:51:00,Reel,We just launched something new in tech. Link in bio!,#instagood #explorepage,2,4994,5899,226,0,24,143,24,393,0.0787,Saturday,15,May,2025,Afternoon
+IG0451,2024-04-30 23:54:00,Image,Big announcement coming soon about fashion!,#instagood #startup #mumbai,3,1319,1980,55,0,16,36,4,107,0.0811,Tuesday,23,April,2024,Night
+IG0452,2025-10-17 06:44:00,Reel,Check out our latest business update! What do you think?,#motivation #foodie #ootd #delhi,4,5593,7362,310,4,169,209,34,692,0.1237,Friday,6,October,2025,Morning
+IG0453,2025-08-05 19:01:00,Image,No caption,#reels #nature,2,3550,5023,73,3,24,100,7,200,0.0563,Tuesday,19,August,2025,Evening
+IG0454,2025-05-08 04:40:00,Image,No caption,#delhi #nature #technology #startup #travel #india #motivation,7,4627,6433,21,0,49,115,27,185,0.04,Thursday,4,May,2025,Night
+IG0455,2024-12-05 11:04:00,Reel,Why business matters more than you think.,#motivation #fashion,2,4211,4910,274,11,59,30,5,374,0.0888,Thursday,11,December,2024,Morning
+IG0456,2025-02-02 05:38:00,Image,Check out our latest business update! What do you think?,#ootd,1,1788,2362,36,1,30,33,3,100,0.0559,Sunday,5,February,2025,Morning
+IG0457,2025-01-15 14:53:00,Image,Big announcement coming soon about fitness!,#reels #india #ootd #photography,4,7317,10358,253,10,69,211,33,543,0.0742,Wednesday,14,January,2025,Afternoon
+IG0458,2025-03-30 16:01:00,Carousel,Big announcement coming soon about tech!,#india #lifestyle #reels #nature #marketing #art #startup,7,6239,8646,141,1,100,184,28,426,0.0683,Sunday,16,March,2025,Afternoon
+IG0459,2025-06-12 21:08:00,Reel,Check out our latest fitness update! What do you think?,#travel #technology #business,3,4205,5554,225,4,37,90,5,356,0.0847,Thursday,21,June,2025,Night
+IG0460,2024-03-30 10:29:00,Reel,A day in the life: fitness edition.,,0,1163,1501,102,0,20,8,0,130,0.1118,Saturday,10,March,2024,Morning
+IG0461,2024-08-02 10:12:00,Carousel,No caption,#ootd #motivation #delhi,3,7946,10957,379,4,37,41,3,461,0.058,Friday,10,August,2024,Morning
+IG0462,2024-04-27 00:39:00,Carousel,We just launched something new in tech. Link in bio!,#india #fitness #reels #art #nature #lifestyle #foodie #instagood,8,3628,5706,166,4,15,34,2,219,0.0604,Saturday,0,April,2024,Night
+IG0463,2025-07-07 14:03:00,Reel,Behind the scenes of fashion — swipe to see more.,#fashion #marketing,2,2366,3026,149,6,72,25,3,252,0.1065,Monday,14,July,2025,Afternoon
+IG0464,2025-12-22 19:57:00,Carousel,No caption,#instagood #art #ootd #nature #reels #mumbai #business,7,8583,11204,500,15,26,129,11,670,0.0781,Monday,19,December,2025,Evening
+IG0465,2025-12-16 14:06:00,Reel,Big announcement coming soon about tech!,#ootd #technology #marketing #explorepage #india #foodie #startup,7,6190,9064,365,10,62,55,4,492,0.0795,Tuesday,14,December,2025,Afternoon
+IG0466,2024-11-28 14:31:00,Image,No caption,,0,4823,6450,288,3,34,60,12,385,0.0798,Thursday,14,November,2024,Afternoon
+IG0467,2024-10-16 11:38:00,Video,Behind the scenes of art — swipe to see more.,#india #fitness,2,5280,8000,145,4,54,170,14,373,0.0706,Wednesday,11,October,2024,Morning
+IG0468,2025-06-29 14:25:00,Image,Big announcement coming soon about fitness!,#explorepage #instagood #delhi #photography #marketing #reels,6,7125,9333,134,6,117,188,11,445,0.0625,Sunday,14,June,2025,Afternoon
+IG0469,2025-03-21 18:50:00,Carousel,No caption,#delhi #explorepage #photography #foodie #marketing,5,3966,5450,105,3,98,32,5,238,0.06,Friday,18,March,2025,Evening
+IG0470,2024-11-11 12:04:00,Reel,Big announcement coming soon about art!,#instagood,1,4230,6068,169,5,57,128,21,359,0.0849,Monday,12,November,2024,Afternoon
+IG0471,2024-05-22 18:57:00,Reel,5 tips every beginner should know about food.,,0,23943,33164,846,39,93,481,99,1459,0.0609,Wednesday,18,May,2024,Evening
+IG0472,2025-04-02 06:13:00,Carousel,Check out our latest fitness update! What do you think?,#ootd #mumbai #instagood #startup #art,5,7382,10214,213,9,119,149,11,490,0.0664,Wednesday,6,April,2025,Morning
+IG0473,2024-10-28 01:23:00,Reel,Why travel matters more than you think.,#travel #fashion #delhi #art #fitness #startup #lifestyle #mumbai,8,15760,21384,545,5,275,270,53,1095,0.0695,Monday,1,October,2024,Night
+IG0474,2025-01-26 12:24:00,Reel,Big announcement coming soon about art!,#delhi #reels #photography #marketing #lifestyle #fitness,6,8285,9835,467,6,175,236,31,884,0.1067,Sunday,12,January,2025,Afternoon
+IG0475,2025-11-17 04:08:00,Carousel,Check out our latest fitness update! What do you think?,,0,4456,4951,200,7,100,106,22,413,0.0927,Monday,4,November,2025,Night
+IG0476,2024-05-19 02:08:00,Carousel,Why wellness matters more than you think.,#technology #startup #photography #instagood #mumbai #motivation,6,5429,7524,217,5,37,65,7,324,0.0597,Sunday,2,May,2024,Night
+IG0477,2025-08-14 15:54:00,Carousel,Check out our latest business update! What do you think?,#india #motivation #startup,3,1934,2722,112,1,12,41,3,166,0.0858,Thursday,15,August,2025,Afternoon
+IG0478,2024-04-25 18:30:00,Reel,No caption,#lifestyle,1,11519,12750,598,25,301,519,28,1443,0.1253,Thursday,18,April,2024,Evening
+IG0479,2024-09-08 15:40:00,Reel,Check out our latest tech update! What do you think?,#delhi,1,5921,7590,387,17,164,262,50,830,0.1402,Sunday,15,September,2024,Afternoon
+IG0480,2025-04-09 16:57:00,Reel,A day in the life: fashion edition.,#mumbai #nature #startup #art #ootd #lifestyle #foodie,7,7008,8606,342,5,195,185,34,727,0.1037,Wednesday,16,April,2025,Afternoon
+IG0481,2025-04-29 18:10:00,Reel,Check out our latest tech update! What do you think?,,0,9004,11311,575,11,282,294,69,1162,0.1291,Tuesday,18,April,2025,Evening
+IG0482,2024-10-11 08:08:00,Reel,5 tips every beginner should know about food.,#motivation #instagood #fashion #fitness,4,8527,12328,611,18,59,288,56,976,0.1145,Friday,8,October,2024,Morning
+IG0483,2025-12-18 07:31:00,Carousel,Behind the scenes of business — swipe to see more.,#india #travel,2,4607,5786,100,4,88,53,6,245,0.0532,Thursday,7,December,2025,Morning
+IG0484,2025-05-22 13:49:00,Reel,Behind the scenes of tech — swipe to see more.,#explorepage #technology #photography #reels #art #fashion,6,8087,12572,369,17,234,334,28,954,0.118,Thursday,13,May,2025,Afternoon
+IG0485,2025-05-02 23:48:00,Video,A day in the life: fashion edition.,#explorepage #business #mumbai #marketing #motivation #foodie #india #reels,8,1747,1976,33,0,12,22,4,67,0.0384,Friday,23,May,2025,Night
+IG0486,2025-06-26 21:02:00,Image,Why business matters more than you think.,#delhi,1,5600,8560,144,2,80,159,29,385,0.0688,Thursday,21,June,2025,Night
+IG0487,2024-10-03 08:51:00,Reel,No caption,#motivation,1,19759,26779,996,25,519,830,64,2370,0.1199,Thursday,8,October,2024,Morning
+IG0488,2025-08-25 06:33:00,Video,Check out our latest fitness update! What do you think?,#photography #nature #delhi #fashion #india,5,7718,11391,148,8,64,222,16,442,0.0573,Monday,6,August,2025,Morning
+IG0489,2024-12-25 07:46:00,Image,Check out our latest fitness update! What do you think?,#motivation #reels #travel #fashion,4,5796,7106,280,5,17,129,18,431,0.0744,Wednesday,7,December,2024,Morning
+IG0490,2025-09-05 20:07:00,Image,Why food matters more than you think.,#foodie,1,1966,2984,49,0,29,33,5,111,0.0565,Friday,20,September,2025,Evening
+IG0491,2024-07-08 03:44:00,Carousel,Behind the scenes of wellness — swipe to see more.,#motivation #ootd,2,5605,8153,231,11,98,152,18,492,0.0878,Monday,3,July,2024,Night
+IG0492,2025-03-13 22:57:00,Image,Why art matters more than you think.,#motivation #photography #foodie #instagood #travel,5,2658,3465,98,1,51,56,9,206,0.0775,Thursday,22,March,2025,Night
+IG0493,2024-09-28 05:28:00,Reel,Why travel matters more than you think.,#marketing,1,10077,13065,423,4,190,473,58,1090,0.1082,Saturday,5,September,2024,Morning
+IG0494,2025-03-17 06:39:00,Reel,Behind the scenes of tech — swipe to see more.,#technology,1,6799,8976,207,7,121,73,17,408,0.06,Monday,6,March,2025,Morning
+IG0495,2025-04-01 00:57:00,Reel,Why business matters more than you think.,#lifestyle #fashion #travel #business #motivation #foodie #art,7,6556,9163,308,9,169,86,18,572,0.0872,Tuesday,0,April,2025,Night
+IG0496,2025-05-17 15:27:00,Carousel,Behind the scenes of wellness — swipe to see more.,#foodie #delhi #explorepage #fashion #business #art,6,2352,2889,28,0,22,56,13,106,0.0451,Saturday,15,May,2025,Afternoon
+IG0497,2025-11-29 09:25:00,Carousel,Big announcement coming soon about fitness!,,0,4014,4525,181,5,29,15,3,230,0.0573,Saturday,9,November,2025,Morning
+IG0498,2025-04-15 09:41:00,Image,We just launched something new in art. Link in bio!,#photography #delhi #travel,3,2457,2850,80,3,45,35,2,163,0.0663,Tuesday,9,April,2025,Morning
+IG0499,2025-12-06 11:31:00,Carousel,5 tips every beginner should know about travel.,#technology,1,2309,3257,52,0,7,86,8,145,0.0628,Saturday,11,December,2025,Morning
+IG0500,2024-09-01 15:24:00,Reel,No caption,#delhi,1,11603,14743,567,24,207,487,108,1285,0.1107,Sunday,15,September,2024,Afternoon
+IG0501,2024-01-17 01:21:00,Reel,Check out our latest business update! What do you think?,,0,5183,8263,384,22,129,80,12,615,0.1187,Wednesday,1,January,2024,Night
+IG0502,2025-06-19 14:43:00,Video,No caption,#lifestyle #mumbai #explorepage #foodie #travel #art #india #delhi,8,2342,2584,115,2,43,31,6,191,0.0816,Thursday,14,June,2025,Afternoon
+IG0503,2025-10-26 04:00:00,Reel,No caption,#travel #ootd,2,3245,3948,131,2,62,56,7,251,0.0773,Sunday,4,October,2025,Night
+IG0504,2024-04-18 03:31:00,Reel,Why business matters more than you think.,#foodie #reels #startup,3,1860,2145,111,1,21,32,3,165,0.0887,Thursday,3,April,2024,Night
+IG0505,2024-05-20 10:53:00,Reel,Behind the scenes of business — swipe to see more.,#travel #mumbai #photography,3,4714,6681,253,3,138,61,13,455,0.0965,Monday,10,May,2024,Morning
+IG0506,2025-12-14 11:35:00,Carousel,5 tips every beginner should know about fashion.,#technology #explorepage,2,6282,7440,241,2,88,186,44,517,0.0823,Sunday,11,December,2025,Morning
+IG0507,2024-06-10 00:56:00,Image,Why tech matters more than you think.,#foodie #fashion #mumbai #photography #instagood #art #nature,7,2561,3187,45,1,30,18,3,94,0.0367,Monday,0,June,2024,Night
+IG0508,2024-05-09 06:09:00,Reel,Check out our latest food update! What do you think?,#india #technology #startup #explorepage,4,5937,8894,189,7,45,168,11,409,0.0689,Thursday,6,May,2024,Morning
+IG0509,2024-03-31 20:52:00,Reel,Behind the scenes of travel — swipe to see more.,#art #startup #fashion #explorepage,4,4416,5462,264,15,58,29,2,366,0.0829,Sunday,20,March,2024,Evening
+IG0510,2025-07-06 16:14:00,Reel,No caption,#reels #motivation #travel #instagood #fitness #business #foodie,7,4675,7436,266,12,61,149,13,488,0.1044,Sunday,16,July,2025,Afternoon
+IG0511,2025-10-22 11:18:00,Reel,Check out our latest wellness update! What do you think?,#startup #motivation #nature,3,6791,10214,404,10,83,219,26,716,0.1054,Wednesday,11,October,2025,Morning
+IG0512,2024-06-10 00:31:00,Reel,We just launched something new in business. Link in bio!,#fitness #foodie #explorepage #technology #nature #reels #instagood #art,8,11507,14856,631,12,115,204,36,962,0.0836,Monday,0,June,2024,Night
+IG0513,2025-02-26 06:24:00,Carousel,Why fashion matters more than you think.,#foodie #marketing #mumbai,3,2647,4002,144,4,54,26,1,228,0.0861,Wednesday,6,February,2025,Morning
+IG0514,2025-01-31 11:08:00,Image,A day in the life: fashion edition.,#reels #art #motivation #instagood #nature #foodie #fashion,7,7426,8262,121,3,22,144,14,290,0.0391,Friday,11,January,2025,Morning
+IG0515,2024-06-24 10:14:00,Reel,Why fitness matters more than you think.,#instagood #photography #mumbai #explorepage,4,4337,6745,198,6,29,78,18,311,0.0717,Monday,10,June,2024,Morning
+IG0516,2025-08-28 15:53:00,Reel,5 tips every beginner should know about travel.,#motivation #fashion #startup #explorepage #india #photography #reels,7,6944,10709,536,19,61,83,19,699,0.1007,Thursday,15,August,2025,Afternoon
+IG0517,2024-02-15 01:30:00,Reel,No caption,#travel #startup #india #business #marketing #delhi #technology #art,8,12079,15333,627,29,246,517,30,1419,0.1175,Thursday,1,February,2024,Night
+IG0518,2025-12-10 23:26:00,Reel,Behind the scenes of travel — swipe to see more.,#lifestyle #art #ootd,3,2507,3690,145,0,32,116,16,293,0.1169,Wednesday,23,December,2025,Night
+IG0519,2025-04-15 18:47:00,Carousel,No caption,,0,6682,9251,266,13,68,122,26,469,0.0702,Tuesday,18,April,2025,Evening
+IG0520,2025-01-14 20:29:00,Reel,Why fitness matters more than you think.,,0,12536,18835,871,25,58,277,51,1231,0.0982,Tuesday,20,January,2025,Evening
+IG0521,2025-03-12 08:44:00,Carousel,Behind the scenes of fashion — swipe to see more.,#mumbai #reels #foodie #nature #travel #motivation #india #photography,8,3026,4288,160,7,44,32,3,243,0.0803,Wednesday,8,March,2025,Morning
+IG0522,2025-01-10 05:41:00,Image,We just launched something new in wellness. Link in bio!,#foodie #delhi #reels #lifestyle #nature #fitness #motivation #travel,8,1596,2527,47,2,15,25,5,89,0.0558,Friday,5,January,2025,Morning
+IG0523,2024-09-30 16:43:00,Carousel,Behind the scenes of wellness — swipe to see more.,#motivation #travel #foodie #art #india #explorepage,6,2605,3447,122,2,6,13,3,143,0.0549,Monday,16,September,2024,Afternoon
+IG0524,2024-10-26 14:39:00,Reel,5 tips every beginner should know about art.,#foodie #reels #technology #instagood #india,5,9879,13586,554,25,202,359,73,1140,0.1154,Saturday,14,October,2024,Afternoon
+IG0525,2024-10-09 03:44:00,Video,Check out our latest travel update! What do you think?,#marketing #lifestyle,2,1439,2049,58,3,6,18,3,85,0.0591,Wednesday,3,October,2024,Night
+IG0526,2024-05-15 15:22:00,Carousel,Big announcement coming soon about travel!,#technology #fashion #ootd #reels #foodie #mumbai,6,3277,5004,32,1,14,98,21,145,0.0442,Wednesday,15,May,2024,Afternoon
+IG0527,2024-11-30 15:37:00,Reel,A day in the life: food edition.,#delhi #technology #mumbai #ootd #lifestyle #instagood #business #marketing,8,2997,4355,157,6,26,41,2,230,0.0767,Saturday,15,November,2024,Afternoon
+IG0528,2024-02-18 04:22:00,Reel,5 tips every beginner should know about food.,#technology #photography #mumbai #ootd,4,10767,15434,611,35,257,484,75,1387,0.1288,Sunday,4,February,2024,Night
+IG0529,2024-06-06 05:15:00,Reel,5 tips every beginner should know about business.,#travel,1,4760,6503,223,8,38,100,17,369,0.0775,Thursday,5,June,2024,Morning
+IG0530,2025-12-25 01:42:00,Video,Behind the scenes of tech — swipe to see more.,#art #lifestyle #instagood #technology #photography,5,4870,7212,181,3,74,106,18,364,0.0747,Thursday,1,December,2025,Night
+IG0531,2024-05-28 14:59:00,Carousel,No caption,#lifestyle #fashion #delhi #india #nature,5,1467,1994,61,3,9,9,1,82,0.0559,Tuesday,14,May,2024,Afternoon
+IG0532,2025-08-10 21:09:00,Carousel,A day in the life: fitness edition.,#nature #fitness #marketing #travel #lifestyle #instagood #motivation,7,1797,2478,60,0,41,37,4,138,0.0768,Sunday,21,August,2025,Night
+IG0533,2024-12-31 02:20:00,Image,We just launched something new in travel. Link in bio!,,0,3581,4541,89,0,42,82,12,213,0.0595,Tuesday,2,December,2024,Night
+IG0534,2024-03-26 17:54:00,Reel,Big announcement coming soon about fashion!,#foodie #india #business #reels #marketing #photography #ootd,7,5883,8277,338,11,91,47,3,487,0.0828,Tuesday,17,March,2024,Evening
+IG0535,2025-01-30 11:00:00,Image,We just launched something new in fitness. Link in bio!,#art #instagood #ootd #technology,4,2457,3322,57,0,30,15,0,102,0.0415,Thursday,11,January,2025,Morning
+IG0536,2025-03-29 09:10:00,Reel,Big announcement coming soon about wellness!,#startup #lifestyle #foodie #mumbai #reels #india,6,5577,8488,252,7,24,134,22,417,0.0748,Saturday,9,March,2025,Morning
+IG0537,2024-03-31 00:26:00,Carousel,We just launched something new in food. Link in bio!,#startup #photography #delhi #technology,4,2307,2660,59,0,45,83,20,187,0.0811,Sunday,0,March,2024,Night
+IG0538,2024-02-13 09:53:00,Image,Check out our latest fashion update! What do you think?,#marketing #delhi #technology #explorepage,4,8770,10897,361,11,93,205,21,670,0.0764,Tuesday,9,February,2024,Morning
+IG0539,2025-10-13 15:07:00,Reel,Behind the scenes of fashion — swipe to see more.,#startup #photography #marketing #explorepage,4,9419,13235,522,11,123,391,63,1047,0.1112,Monday,15,October,2025,Afternoon
+IG0540,2025-09-05 23:23:00,Carousel,A day in the life: fashion edition.,#mumbai #startup #motivation #marketing #fitness #photography #delhi,7,4297,6022,177,7,100,99,7,383,0.0891,Friday,23,September,2025,Night
+IG0541,2025-12-10 04:22:00,Carousel,Why business matters more than you think.,#travel #motivation,2,3454,5318,210,11,57,28,3,306,0.0886,Wednesday,4,December,2025,Night
+IG0542,2024-10-25 16:40:00,Reel,5 tips every beginner should know about travel.,#india,1,6464,9296,363,6,161,163,15,693,0.1072,Friday,16,October,2024,Afternoon
+IG0543,2024-11-26 10:52:00,Carousel,Check out our latest food update! What do you think?,#motivation #art #fitness #mumbai,4,4324,5769,149,8,31,35,3,223,0.0516,Tuesday,10,November,2024,Morning
+IG0544,2025-02-25 10:58:00,Image,We just launched something new in food. Link in bio!,#fitness #reels,2,9166,10178,43,1,153,246,16,443,0.0483,Tuesday,10,February,2025,Morning
+IG0545,2025-12-07 16:54:00,Carousel,No caption,#delhi #fitness #startup #technology #foodie #travel #instagood #marketing,8,4063,6154,187,10,78,144,26,419,0.1031,Sunday,16,December,2025,Afternoon
+IG0546,2025-03-28 19:33:00,Reel,5 tips every beginner should know about food.,#photography #ootd #fashion #fitness #explorepage,5,5473,6929,332,16,164,74,15,586,0.1071,Friday,19,March,2025,Evening
+IG0547,2024-03-21 13:44:00,Image,No caption,#foodie,1,3331,4135,69,4,45,74,18,192,0.0576,Thursday,13,March,2024,Afternoon
+IG0548,2025-11-06 16:37:00,Reel,Behind the scenes of wellness — swipe to see more.,,0,4955,7604,332,19,47,93,18,491,0.0991,Thursday,16,November,2025,Afternoon
+IG0549,2024-01-11 03:50:00,Reel,We just launched something new in travel. Link in bio!,#instagood,1,3208,4719,246,3,37,81,6,367,0.1144,Thursday,3,January,2024,Night
+IG0550,2024-10-11 18:22:00,Reel,Check out our latest fitness update! What do you think?,#photography #india #explorepage #mumbai #foodie,5,4170,5803,243,4,85,139,18,471,0.1129,Friday,18,October,2024,Evening
+IG0551,2024-06-24 17:00:00,Image,Big announcement coming soon about wellness!,#reels,1,3924,4330,17,0,10,50,12,77,0.0196,Monday,17,June,2024,Evening
+IG0552,2024-04-19 05:53:00,Carousel,Behind the scenes of art — swipe to see more.,#business #startup #reels #india #explorepage,5,7430,10837,309,15,163,142,20,629,0.0847,Friday,5,April,2024,Morning
+IG0553,2025-06-16 04:31:00,Reel,Behind the scenes of wellness — swipe to see more.,#ootd #delhi #travel #foodie #nature,5,3823,5256,205,11,34,154,24,404,0.1057,Monday,4,June,2025,Night
+IG0554,2025-12-04 14:14:00,Reel,Big announcement coming soon about wellness!,#startup #ootd #instagood #reels #foodie #technology #delhi #business,8,5866,7305,357,18,70,76,5,521,0.0888,Thursday,14,December,2025,Afternoon
+IG0555,2024-04-17 12:28:00,Reel,Behind the scenes of food — swipe to see more.,#foodie #fitness #lifestyle #business #india #art #ootd #travel,8,5355,6499,367,9,162,105,26,643,0.1201,Wednesday,12,April,2024,Afternoon
+IG0556,2025-02-17 03:14:00,Carousel,No caption,#marketing #motivation #mumbai #business #art #explorepage,6,12338,19640,401,5,230,163,14,799,0.0648,Monday,3,February,2025,Night
+IG0557,2024-05-05 08:31:00,Reel,Check out our latest wellness update! What do you think?,#explorepage #lifestyle #fashion #fitness #travel #startup #marketing,7,5520,7744,223,2,142,29,5,396,0.0717,Sunday,8,May,2024,Morning
+IG0558,2024-06-05 09:39:00,Image,No caption,#foodie,1,7377,9874,30,1,133,89,15,253,0.0343,Wednesday,9,June,2024,Morning
+IG0559,2024-09-24 17:21:00,Video,No caption,#delhi #fashion #travel #startup #fitness #reels #explorepage #photography,8,4029,5344,157,9,20,82,8,268,0.0665,Tuesday,17,September,2024,Evening
+IG0560,2024-11-06 22:10:00,Reel,No caption,#startup #lifestyle #ootd #business #marketing #india #travel,7,6190,7064,268,8,110,98,11,484,0.0782,Wednesday,22,November,2024,Night
+IG0561,2025-02-04 08:31:00,Reel,5 tips every beginner should know about fashion.,#instagood #art #ootd #nature #travel #fashion,6,5335,7391,355,3,141,244,16,743,0.1393,Tuesday,8,February,2025,Morning
+IG0562,2024-01-28 20:21:00,Reel,We just launched something new in fashion. Link in bio!,#fitness #startup #art #delhi #mumbai #photography,6,5973,6612,351,11,138,217,54,717,0.12,Sunday,20,January,2024,Evening
+IG0563,2025-12-05 02:55:00,Reel,Check out our latest business update! What do you think?,#fitness #nature #photography #fashion,4,17388,22653,1352,79,482,457,77,2370,0.1363,Friday,2,December,2025,Night
+IG0564,2025-03-07 08:01:00,Reel,No caption,#mumbai #fashion #nature #business #india #photography #ootd,7,16282,22104,1100,44,226,621,52,1991,0.1223,Friday,8,March,2025,Morning
+IG0565,2025-05-29 21:21:00,Reel,Why business matters more than you think.,#instagood #ootd,2,3647,5437,112,5,72,71,15,260,0.0713,Thursday,21,May,2025,Night
+IG0566,2024-03-18 17:13:00,Reel,Behind the scenes of travel — swipe to see more.,#motivation #travel #ootd #business,4,5906,7266,185,7,105,142,34,439,0.0743,Monday,17,March,2024,Evening
+IG0567,2024-10-06 02:36:00,Carousel,Why tech matters more than you think.,#marketing #startup #reels #art #foodie #nature #mumbai #lifestyle,8,8139,11325,370,10,37,156,20,573,0.0704,Sunday,2,October,2024,Night
+IG0568,2024-09-14 19:32:00,Image,No caption,#delhi #photography #fashion #india #mumbai #ootd #explorepage,7,5528,8752,141,3,63,119,12,326,0.059,Saturday,19,September,2024,Evening
+IG0569,2025-03-20 18:46:00,Image,Big announcement coming soon about travel!,,0,1532,1926,21,0,8,17,4,46,0.03,Thursday,18,March,2025,Evening
+IG0570,2024-11-03 13:26:00,Reel,A day in the life: food edition.,#foodie #reels #startup #motivation #ootd,5,18421,29320,622,27,438,571,38,1658,0.09,Sunday,13,November,2024,Afternoon
+IG0571,2024-06-02 06:01:00,Carousel,Why art matters more than you think.,#ootd #technology #marketing,3,4929,7244,148,7,15,158,22,328,0.0665,Sunday,6,June,2024,Morning
+IG0572,2024-05-19 00:16:00,Reel,Check out our latest fashion update! What do you think?,#delhi #photography #travel #marketing,4,11312,15524,369,9,113,158,20,649,0.0574,Sunday,0,May,2024,Night
+IG0573,2024-03-06 13:57:00,Image,A day in the life: fitness edition.,#foodie #business #lifestyle #explorepage #fitness,5,2638,3417,40,2,43,25,1,110,0.0417,Wednesday,13,March,2024,Afternoon
+IG0574,2024-11-16 10:53:00,Reel,A day in the life: travel edition.,#explorepage #startup #reels #lifestyle #fitness #foodie,6,5969,8887,213,11,80,205,23,509,0.0853,Saturday,10,November,2024,Morning
+IG0575,2025-05-17 17:23:00,Reel,No caption,#nature,1,2260,3269,104,2,60,39,5,205,0.0907,Saturday,17,May,2025,Evening
+IG0576,2024-05-28 11:30:00,Image,Why tech matters more than you think.,#ootd #fashion #travel #delhi #explorepage,5,5296,7440,87,1,82,97,10,267,0.0504,Tuesday,11,May,2024,Morning
+IG0577,2025-12-02 03:34:00,Carousel,A day in the life: art edition.,#technology #business #fashion,3,7306,11284,132,5,103,40,3,280,0.0383,Tuesday,3,December,2025,Night
+IG0578,2024-10-31 06:55:00,Carousel,Check out our latest art update! What do you think?,#technology #nature,2,2713,3668,87,1,35,22,5,145,0.0534,Thursday,6,October,2024,Morning
+IG0579,2025-05-18 15:47:00,Image,Big announcement coming soon about fitness!,#nature #startup #fitness #photography #motivation #marketing,6,2613,3887,94,4,10,53,11,161,0.0616,Sunday,15,May,2025,Afternoon
+IG0580,2024-11-30 14:44:00,Carousel,5 tips every beginner should know about fashion.,,0,3278,4472,197,8,14,60,6,279,0.0851,Saturday,14,November,2024,Afternoon
+IG0581,2025-02-14 06:40:00,Carousel,We just launched something new in food. Link in bio!,#nature #mumbai #foodie #fitness,4,5681,8507,161,2,32,189,29,384,0.0676,Friday,6,February,2025,Morning
+IG0582,2024-05-13 19:43:00,Carousel,A day in the life: business edition.,#nature #technology #marketing #lifestyle #motivation #foodie,6,5353,8211,178,7,22,40,2,247,0.0461,Monday,19,May,2024,Evening
+IG0583,2025-01-21 18:14:00,Reel,We just launched something new in fashion. Link in bio!,,0,4659,6021,243,9,126,165,11,543,0.1165,Tuesday,18,January,2025,Evening
+IG0584,2025-12-19 05:03:00,Image,Behind the scenes of food — swipe to see more.,#instagood #startup #motivation #lifestyle #foodie #photography,6,5778,7340,80,0,40,162,8,282,0.0488,Friday,5,December,2025,Morning
+IG0585,2025-04-09 21:31:00,Carousel,We just launched something new in travel. Link in bio!,#explorepage,1,6925,10991,364,4,145,177,31,690,0.0996,Wednesday,21,April,2025,Night
+IG0586,2025-05-21 12:08:00,Reel,5 tips every beginner should know about art.,#reels #instagood #ootd #mumbai #startup #foodie,6,5437,6089,347,0,127,133,8,607,0.1116,Wednesday,12,May,2025,Afternoon
+IG0587,2025-04-06 07:23:00,Carousel,Why travel matters more than you think.,#foodie #fashion #marketing #lifestyle #nature #art #reels,7,6976,9909,267,9,27,255,31,558,0.08,Sunday,7,April,2025,Morning
+IG0588,2024-04-07 17:03:00,Carousel,We just launched something new in business. Link in bio!,,0,9667,13834,273,6,92,77,13,448,0.0463,Sunday,17,April,2024,Evening
+IG0589,2025-11-17 19:45:00,Reel,A day in the life: fashion edition.,,0,10104,15614,585,19,54,341,73,999,0.0989,Monday,19,November,2025,Evening
+IG0590,2025-11-18 11:08:00,Reel,5 tips every beginner should know about wellness.,#travel #mumbai #photography #motivation #delhi #india #explorepage #marketing,8,11107,17088,540,20,97,102,23,759,0.0683,Tuesday,11,November,2025,Morning
+IG0591,2024-09-23 03:20:00,Image,No caption,,0,3239,4117,146,2,50,60,5,258,0.0797,Monday,3,September,2024,Night
+IG0592,2025-03-16 09:57:00,Reel,5 tips every beginner should know about art.,#instagood #motivation #india #nature,4,10963,12155,578,22,293,207,24,1100,0.1003,Sunday,9,March,2025,Morning
+IG0593,2024-06-03 17:54:00,Carousel,A day in the life: wellness edition.,#travel #reels #lifestyle #instagood #explorepage #foodie #fashion,7,6863,9542,425,18,48,107,8,598,0.0871,Monday,17,June,2024,Evening
+IG0594,2025-05-21 01:28:00,Reel,Behind the scenes of food — swipe to see more.,#delhi #marketing #technology #mumbai #fitness,5,9297,14701,580,11,58,371,61,1020,0.1097,Wednesday,1,May,2025,Night
+IG0595,2024-06-21 23:32:00,Carousel,Why food matters more than you think.,#mumbai #instagood #reels #fashion,4,6714,10186,320,15,145,90,16,570,0.0849,Friday,23,June,2024,Night
+IG0596,2024-04-06 10:01:00,Reel,5 tips every beginner should know about business.,#fitness #business #art #instagood,4,3020,4397,164,0,52,133,12,349,0.1156,Saturday,10,April,2024,Morning
+IG0597,2025-05-06 14:40:00,Reel,Big announcement coming soon about wellness!,#instagood #fashion #nature #travel,4,5837,9081,406,17,57,67,12,547,0.0937,Tuesday,14,May,2025,Afternoon
+IG0598,2025-08-05 04:13:00,Carousel,Big announcement coming soon about tech!,,0,2922,3868,155,9,26,40,4,230,0.0787,Tuesday,4,August,2025,Night
+IG0599,2025-09-08 12:05:00,Carousel,5 tips every beginner should know about travel.,#motivation #photography #explorepage #business #foodie #fashion,6,5409,6668,227,3,93,185,15,508,0.0939,Monday,12,September,2025,Afternoon
+IG0600,2025-10-31 04:07:00,Video,Behind the scenes of business — swipe to see more.,#marketing #startup #ootd #lifestyle,4,5750,8270,181,3,47,34,2,265,0.0461,Friday,4,October,2025,Night
+IG0601,2025-02-01 15:17:00,Reel,Behind the scenes of art — swipe to see more.,#foodie #startup #art #photography #mumbai #nature,6,12298,14397,569,23,109,110,9,811,0.0659,Saturday,15,February,2025,Afternoon
+IG0602,2024-08-17 20:43:00,Video,A day in the life: fitness edition.,#marketing #india,2,3062,4372,147,6,48,67,6,268,0.0875,Saturday,20,August,2024,Evening
+IG0603,2024-11-03 04:08:00,Reel,Behind the scenes of fashion — swipe to see more.,#explorepage #india #startup #ootd,4,9946,13772,577,34,78,344,63,1033,0.1039,Sunday,4,November,2024,Night
+IG0604,2025-02-26 03:29:00,Video,Behind the scenes of fashion — swipe to see more.,#art #motivation #foodie #india,4,6024,6948,166,9,58,132,17,365,0.0606,Wednesday,3,February,2025,Night
+IG0605,2025-02-06 01:05:00,Carousel,We just launched something new in food. Link in bio!,#ootd #nature #technology #delhi #motivation #photography,6,8194,12848,279,5,181,234,23,699,0.0853,Thursday,1,February,2025,Night
+IG0606,2025-11-20 03:27:00,Reel,Why wellness matters more than you think.,#fashion #instagood #business #fitness #mumbai #foodie #nature #explorepage,8,7301,10342,401,9,174,43,5,627,0.0859,Thursday,3,November,2025,Night
+IG0607,2025-05-13 09:39:00,Carousel,No caption,#business #ootd #foodie #lifestyle #india,5,5303,6456,202,6,84,39,2,331,0.0624,Tuesday,9,May,2025,Morning
+IG0608,2024-01-28 06:30:00,Image,Behind the scenes of travel — swipe to see more.,#explorepage #startup,2,5628,9002,117,2,78,163,38,360,0.064,Sunday,6,January,2024,Morning
+IG0609,2024-01-23 03:10:00,Carousel,Check out our latest wellness update! What do you think?,#technology #marketing,2,3663,5819,182,3,33,26,2,244,0.0666,Tuesday,3,January,2024,Night
+IG0610,2025-08-06 12:03:00,Image,Check out our latest tech update! What do you think?,#fashion #fitness #startup #delhi #marketing,5,2411,3064,72,2,22,18,4,114,0.0473,Wednesday,12,August,2025,Afternoon
+IG0611,2025-09-18 21:57:00,Image,A day in the life: fitness edition.,#explorepage #travel #india #fashion #startup #ootd #photography,7,3022,3409,75,2,56,49,10,182,0.0602,Thursday,21,September,2025,Night
+IG0612,2025-05-21 19:41:00,Carousel,No caption,#technology #startup #fashion #photography #ootd,5,7982,9474,405,16,32,127,19,580,0.0727,Wednesday,19,May,2025,Evening
+IG0613,2025-12-02 10:58:00,Video,We just launched something new in food. Link in bio!,#lifestyle #ootd #business #startup #art #delhi #explorepage,7,8393,11045,292,11,165,130,22,598,0.0712,Tuesday,10,December,2025,Morning
+IG0614,2024-05-12 05:12:00,Carousel,Why fitness matters more than you think.,#instagood #marketing,2,2496,2862,83,4,19,27,5,133,0.0533,Sunday,5,May,2024,Morning
+IG0615,2025-07-24 01:01:00,Reel,Big announcement coming soon about fitness!,#motivation #art #photography #delhi #travel,5,2923,4617,175,9,43,110,8,337,0.1153,Thursday,1,July,2025,Night
+IG0616,2024-08-17 15:16:00,Reel,Check out our latest fitness update! What do you think?,#art #travel #delhi #motivation #lifestyle,5,6007,7975,309,3,92,215,29,619,0.103,Saturday,15,August,2024,Afternoon
+IG0617,2024-04-23 03:50:00,Image,Behind the scenes of fashion — swipe to see more.,#delhi,1,5268,7344,110,2,70,133,17,315,0.0598,Tuesday,3,April,2024,Night
+IG0618,2025-01-05 05:46:00,Reel,Big announcement coming soon about food!,#technology #india #marketing #fitness,4,7204,9538,473,9,153,146,36,781,0.1084,Sunday,5,January,2025,Morning
+IG0619,2025-03-25 13:49:00,Carousel,No caption,,0,20869,32521,742,24,389,491,72,1646,0.0789,Tuesday,13,March,2025,Afternoon
+IG0620,2025-01-16 22:48:00,Reel,5 tips every beginner should know about travel.,#art #explorepage #lifestyle #india #startup #business,6,2394,3728,120,6,44,76,12,246,0.1028,Thursday,22,January,2025,Night
