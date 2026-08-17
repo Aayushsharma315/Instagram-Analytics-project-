@@ -1,14 +1,12 @@
 # Instagram Engagement & Growth Analytics
 
 End-to-end analysis of Instagram post performance — from raw data to
-actionable content strategy — built with Python, MySQL, Excel, Power BI,
-and Tableau.
+actionable content strategy — built with Python, MySQL and  Excel
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627)
+
 
 ## Problem Statement
 
