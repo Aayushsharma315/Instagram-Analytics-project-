@@ -44,7 +44,7 @@ comments, shares, saves, hashtags, and captions.
 |---|---|
 | Data generation / cleaning | Python, Pandas|
 | Exploratory analysis | Matplotlib |
-| Database & queries |
+| Database & queries | My_Sql |
 | Reporting workbook | Excel (formula-driven, openpyxl) |
 | Dashboards | Streamlit|
 
