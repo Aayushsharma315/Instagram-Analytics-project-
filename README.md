@@ -1,7 +1,7 @@
 # Instagram Engagement & Growth Analytics
 
 End-to-end analysis of Instagram post performance — from raw data to
-actionable content strategy — built with Python, matplotlib, streamlit
+actionable content strategy — built with Python, pandas, matplotlib and streamlit.
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white)
