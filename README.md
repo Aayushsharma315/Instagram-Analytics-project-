@@ -42,11 +42,11 @@ comments, shares, saves, hashtags, and captions.
 
 | Stage | Tools |
 |---|---|
-| Data generation / cleaning | Python, Pandas, NumPy |
-| Exploratory analysis | Matplotlib, Seaborn |
-| Database & queries | MySQL |
+| Data generation / cleaning | Python, Pandas|
+| Exploratory analysis | Matplotlib |
+| Database & queries |
 | Reporting workbook | Excel (formula-driven, openpyxl) |
-| Dashboards | Power BI, Tableau |
+| Dashboards | Streamlit|
 
 ## Project Structure
 
@@ -67,7 +67,7 @@ instagram-analytics-project/
 │   └── instagram_analytics.xlsx             # formula-driven summary workbook
 ├── visuals/                                 # exported charts (PNG)
 ├── dashboard/
-│   └── dashboard_notes.md                   # Power BI / Tableau build guide
+│   └── dashboard_notes.md                   # Streamlit
 ├── requirements.txt
 └── README.md
 ```
