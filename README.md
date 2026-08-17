@@ -3,9 +3,6 @@
 End-to-end analysis of Instagram post performance — from raw data to
 actionable content strategy — built with Python, MySQL, Excel, matplotlib, streamlit
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=python&logoColor=white)
