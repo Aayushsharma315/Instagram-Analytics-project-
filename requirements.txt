@@ -2,6 +2,4 @@ streamlit
 pandas
 numpy
 matplotlib
-seaborn
-openpyxl
-mysql-connector-python
+pyarrow
