@@ -1,6 +1,6 @@
 # Instagram Engagement & Growth Analytics
 
-https://g8o58eszbviv5u3rbdbfqm.streamlit.app/
+https://instagram-growth-analysis.streamlit.app/
 
 End-to-end analysis of Instagram post performance — from raw data to
 actionable content strategy — built with Python, pandas, matplotlib and streamlit.
